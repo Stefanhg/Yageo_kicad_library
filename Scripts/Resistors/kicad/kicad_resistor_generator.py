@@ -5,8 +5,12 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import sys
 from dataclasses import dataclass
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "LCSC"))
+from lcsc import apply_kicad, load_cache
 
 
 E12_BASE = (
@@ -668,9 +672,9 @@ def main() -> int:
     output_path = resolve_path(args.output, script_dir / f"{series.name}.generated.kicad_sym")
     values_output_path = resolve_path(args.values_output, output_path.with_suffix(".values.txt"))
 
-    output_path.write_text(build_library(series, values), encoding="utf-8")
+    output_path.write_text(apply_kicad(build_library(series, values), load_cache()), encoding="utf-8", newline="\n")
     if not args.no_values_output:
-        values_output_path.write_text("\n".join(label for _, label in values) + "\n", encoding="utf-8")
+        values_output_path.write_text("\n".join(label for _, label in values) + "\n", encoding="utf-8", newline="\n")
 
     print(f"Wrote {output_path}")
     if not args.no_values_output:

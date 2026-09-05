@@ -479,6 +479,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C100044" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -635,6 +636,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C112305" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -791,6 +793,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C309559" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -947,6 +950,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137771" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -1103,6 +1107,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C482631" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -1259,6 +1264,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C245932" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -1415,6 +1421,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C482651" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -1571,6 +1578,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C245933" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -1727,6 +1735,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C185341" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -1883,6 +1892,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C112307" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -2039,6 +2049,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137746" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -2195,6 +2206,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C309560" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -2351,6 +2363,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137724" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -2507,6 +2520,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137725" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -2663,6 +2677,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C482837" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -2819,6 +2834,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C482845" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -2975,6 +2991,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137707" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -3131,6 +3148,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137705" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -3287,6 +3305,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114626" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -3443,6 +3462,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C482882" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -3599,6 +3619,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C246001" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -3755,6 +3776,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C185313" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -3911,6 +3933,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137679" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -4067,6 +4090,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137674" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -4223,6 +4247,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C246020" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -4379,6 +4404,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C109318" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -4535,6 +4561,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C245903" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -4691,6 +4718,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C245909" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -4847,6 +4875,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C295886" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -5003,6 +5032,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C128059" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -5159,6 +5189,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137787" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -5315,6 +5346,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C245924" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -5471,6 +5503,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C125758" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -5627,6 +5660,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C107701" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -5783,6 +5817,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137758" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -5939,6 +5974,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137753" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -6095,6 +6131,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C128060" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -6251,6 +6288,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C108661" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -6407,6 +6445,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C185335" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -6563,6 +6602,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137733" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -6719,6 +6759,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C185328" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -6875,6 +6916,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114623" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -7031,6 +7073,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114628" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -7187,6 +7230,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C126360" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -7343,6 +7387,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C245989" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -7499,6 +7544,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C126362" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -7655,6 +7701,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C112309" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -7811,6 +7858,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137676" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -7967,6 +8015,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137670" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -8123,6 +8172,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C105588" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -8279,6 +8329,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C141676" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -8435,6 +8486,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114640" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -8591,6 +8643,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C141677" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -8747,6 +8800,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114608" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -8903,6 +8957,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C185369" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -9059,6 +9114,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137786" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -9215,6 +9271,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114664" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -9371,6 +9428,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C107696" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -9527,6 +9585,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114613" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -9683,6 +9742,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137754" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -9839,6 +9899,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114617" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -9995,6 +10056,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C105881" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -10151,6 +10213,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137739" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -10307,6 +10370,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114620" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -10463,6 +10527,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137721" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -10619,6 +10684,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114669" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -10775,6 +10841,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114670" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -10931,6 +10998,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114629" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -11087,6 +11155,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137695" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -11243,6 +11312,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C112310" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -11399,6 +11469,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114635" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -11555,6 +11626,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114638" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -11711,6 +11783,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C185304" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -11867,6 +11940,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C22548" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -12023,6 +12097,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137780" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -12179,6 +12254,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114605" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -12335,6 +12411,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C125319" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -12491,6 +12568,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114668" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -12647,6 +12725,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C165489" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -12803,6 +12882,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C185354" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -12959,6 +13039,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C105576" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -13115,6 +13196,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114662" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -13271,6 +13353,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114611" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -13427,6 +13510,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114612" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -13583,6 +13667,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C126358" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -13739,6 +13824,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C108078" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -13895,6 +13981,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137729" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -14051,6 +14138,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114616" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -14207,6 +14295,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137712" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -14363,6 +14452,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C99782" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -14519,6 +14609,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C105580" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -14675,6 +14766,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114627" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -14831,6 +14923,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114631" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -14987,6 +15080,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114632" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -15143,6 +15237,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114634" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -15299,6 +15394,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114637" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -15455,6 +15551,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114639" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -15611,6 +15708,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C98220" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -15767,6 +15865,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137801" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -15923,6 +16022,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114659" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -16079,6 +16179,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137796" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -16235,6 +16336,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114661" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -16391,6 +16493,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137788" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -16547,6 +16650,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114610" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -16703,6 +16807,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C105575" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -16859,6 +16964,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114065" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -17015,6 +17121,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137760" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -17171,6 +17278,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114614" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -17327,6 +17435,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C100001" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -17483,6 +17592,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C126359" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -17639,6 +17749,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114619" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -17795,6 +17906,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C163424" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -17951,6 +18063,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137719" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -18107,6 +18220,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C105579" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -18263,6 +18377,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C107231" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -18419,6 +18534,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114630" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -18575,6 +18691,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137694" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -18731,6 +18848,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114633" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -18887,6 +19005,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114636" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -19043,6 +19162,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137678" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -19199,6 +19319,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137671" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -19355,6 +19476,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C14675" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -19511,6 +19633,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137807" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -19667,6 +19790,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114607" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -19823,6 +19947,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C163432" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -19979,6 +20104,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114660" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -20135,6 +20261,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137793" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -20291,6 +20418,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C123419" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -20447,6 +20575,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C105574" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -20603,6 +20732,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C123420" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -20759,6 +20889,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137765" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -20915,6 +21046,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137755" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -21071,6 +21203,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114667" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -21227,6 +21360,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114618" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -21383,6 +21517,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137740" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -21539,6 +21674,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137735" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -21695,6 +21831,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C482869" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -21851,6 +21988,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114622" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -22007,6 +22145,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114066" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -22163,6 +22302,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137699" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -22319,6 +22459,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C68737" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -22475,6 +22616,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137690" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -22631,6 +22773,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137684" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -22787,6 +22930,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C141684" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -22943,6 +23087,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137672" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -23099,6 +23244,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C105578" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -23255,6 +23401,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C482620" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -23411,6 +23558,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137774" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -23567,6 +23715,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C245931" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -23723,6 +23872,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137773" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -23879,6 +24029,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C482649" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -24035,6 +24186,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137772" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -24191,6 +24343,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114615" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -24347,6 +24500,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137747" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -24503,6 +24657,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C141686" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -24659,6 +24814,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C141687" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -24815,6 +24971,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C126361" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -24971,6 +25128,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C141688" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -25127,6 +25285,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137727" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -25283,6 +25442,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C141689" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -25439,6 +25599,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C482856" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -25595,6 +25756,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C123423" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -25751,6 +25913,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C163423" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -25907,6 +26070,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C245985" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -26063,6 +26227,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C482892" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -26219,6 +26384,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C482901" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -26375,6 +26541,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C482910" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -26531,6 +26698,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C482922" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -26687,6 +26855,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C327172" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)
@@ -26843,6 +27012,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114606" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Tolerance" "1%"
 			(at 0 -17.145 0)
 			(show_name yes)

@@ -1,0 +1,576 @@
+{
+  "CC0402KRX7R5BB105": {
+    "candidates": [
+      {
+        "lcsc": 115046,
+        "manufacturer": "YAGEO",
+        "mfr": "CC0402KRX7R5BB105",
+        "package": "0402"
+      },
+      {
+        "lcsc": 412141,
+        "manufacturer": "",
+        "mfr": "CC0402KRX7R5BB105",
+        "package": "0402"
+      }
+    ],
+    "checked_at": "2026-09-05T12:47:21.099181+00:00",
+    "source": "jlcparts SQLite",
+    "status": "ambiguous"
+  },
+  "CC0603JRNPO9BN104": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.756225+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "CC0603JRNPO9BN105": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.761747+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "CC0603JRNPO9BN153": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.750244+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "CC0603JRNPO9BN154": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.757225+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "CC0603JRNPO9BN223": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.751246+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "CC0603JRNPO9BN224": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.758238+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "CC0603JRNPO9BN333": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.752244+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "CC0603JRNPO9BN472": {
+    "candidates": [
+      {
+        "lcsc": 576818,
+        "manufacturer": "YAGEO",
+        "mfr": "CC0603JRNPO9BN472",
+        "package": "0603"
+      },
+      {
+        "lcsc": 9900089357,
+        "manufacturer": "",
+        "mfr": "CC0603JRNPO9BN472",
+        "package": "0603"
+      }
+    ],
+    "checked_at": "2026-09-05T12:47:19.748243+00:00",
+    "source": "jlcparts SQLite",
+    "status": "ambiguous"
+  },
+  "CC0603JRNPO9BN473": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.754218+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "CC0603JRNPO9BN474": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.760236+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "CC0603JRNPO9BN683": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.755233+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "CC0603KRX7R9BB104": {
+    "candidates": [
+      {
+        "lcsc": 14663,
+        "manufacturer": "YAGEO",
+        "mfr": "CC0603KRX7R9BB104",
+        "package": "0603"
+      },
+      {
+        "lcsc": 9900097451,
+        "manufacturer": "",
+        "mfr": "CC0603KRX7R9BB104",
+        "package": "0603"
+      }
+    ],
+    "checked_at": "2026-09-05T12:47:21.123180+00:00",
+    "source": "jlcparts SQLite",
+    "status": "ambiguous"
+  },
+  "CC0805KRX5R9BB225": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:49:23.349195+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "CC0805KRX5R9BB475": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:49:23.350196+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "CC0805KRX7R9BB104": {
+    "candidates": [
+      {
+        "lcsc": 49678,
+        "manufacturer": "YAGEO",
+        "mfr": "CC0805KRX7R9BB104",
+        "package": "0805"
+      },
+      {
+        "lcsc": 9900137174,
+        "manufacturer": "",
+        "mfr": "CC0805KRX7R9BB104",
+        "package": "0805"
+      }
+    ],
+    "checked_at": "2026-09-05T12:49:23.346189+00:00",
+    "source": "jlcparts SQLite",
+    "status": "ambiguous"
+  },
+  "CC0805KRX7R9BB105": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:49:23.348189+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "CC1206KRX7R0BB105": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:49:23.357189+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "CC1206KRX7R9BB225": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:49:23.358188+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "CC1206KRX7R9BB475": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:49:23.360189+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0402FR-07100RL": {
+    "candidates": [
+      {
+        "lcsc": 106232,
+        "manufacturer": "YAGEO",
+        "mfr": "RC0402FR-07100RL",
+        "package": "0402"
+      },
+      {
+        "lcsc": 2935235,
+        "manufacturer": "YAGEO",
+        "mfr": "RC0402FR-07100RL",
+        "package": "0402"
+      }
+    ],
+    "checked_at": "2026-09-05T12:47:19.762747+00:00",
+    "source": "jlcparts SQLite",
+    "status": "ambiguous"
+  },
+  "RC0402FR-071KL": {
+    "candidates": [
+      {
+        "lcsc": 106235,
+        "manufacturer": "YAGEO",
+        "mfr": "RC0402FR-071KL",
+        "package": "0402"
+      },
+      {
+        "lcsc": 2935237,
+        "manufacturer": "YAGEO",
+        "mfr": "RC0402FR-071KL",
+        "package": "0402"
+      }
+    ],
+    "checked_at": "2026-09-05T12:47:19.763747+00:00",
+    "source": "jlcparts SQLite",
+    "status": "ambiguous"
+  },
+  "RC0402FR-072K37L": {
+    "candidates": [
+      {
+        "lcsc": 185432,
+        "manufacturer": "YAGEO",
+        "mfr": "RC0402FR-072K37L",
+        "package": "0402"
+      },
+      {
+        "lcsc": 294439,
+        "manufacturer": "YAGEO",
+        "mfr": "RC0402FR-072K37L",
+        "package": "0402"
+      }
+    ],
+    "checked_at": "2026-09-05T12:47:19.768747+00:00",
+    "source": "jlcparts SQLite",
+    "status": "ambiguous"
+  },
+  "RC0402FR-072K5L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.766747+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0402FR-072M5L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.767747+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0402FR-072R5L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.765757+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0402FR-073K1L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.771746+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0402FR-073M1L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.772754+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0402FR-073R1L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.769747+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0402FR-074K2L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.774747+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0402FR-074M2L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.775747+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0402FR-074R2L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.773753+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0402FR-079K9L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.778753+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0402FR-079M9L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.779747+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0402FR-079R9L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.776755+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0603FR-072K5L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.781747+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0603FR-072M5L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.783753+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0603FR-072R5L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.780747+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0603FR-073K1L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.785753+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0603FR-073M1L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.786747+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0603FR-073R1L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.784747+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0603FR-07487KL": {
+    "candidates": [
+      {
+        "lcsc": 165748,
+        "manufacturer": "YAGEO",
+        "mfr": "RC0603FR-07487KL",
+        "package": "0603"
+      },
+      {
+        "lcsc": 273799,
+        "manufacturer": "",
+        "mfr": "RC0603FR-07487KL",
+        "package": "0603"
+      }
+    ],
+    "checked_at": "2026-09-05T12:47:19.791754+00:00",
+    "source": "jlcparts SQLite",
+    "status": "ambiguous"
+  },
+  "RC0603FR-074K2L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.789753+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0603FR-074M2L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.790756+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0603FR-074R2L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.788747+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0603FR-079K9L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.794746+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0603FR-079M9L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.795754+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0603FR-079R9L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.792747+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0805FR-0726K1L": {
+    "candidates": [
+      {
+        "lcsc": 327308,
+        "manufacturer": "YAGEO",
+        "mfr": "RC0805FR-0726K1L",
+        "package": "0805"
+      },
+      {
+        "lcsc": 483075,
+        "manufacturer": "",
+        "mfr": "RC0805FR-0726K1L",
+        "package": "0805"
+      }
+    ],
+    "checked_at": "2026-09-05T12:47:19.800746+00:00",
+    "source": "jlcparts SQLite",
+    "status": "ambiguous"
+  },
+  "RC0805FR-072K5L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.797747+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0805FR-072M5L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.799747+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0805FR-072R5L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.796755+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0805FR-073K1L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.802747+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0805FR-073M1L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.803753+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0805FR-073R1L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.801754+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0805FR-074K2L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.806747+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0805FR-074M2L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.807747+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0805FR-074R2L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.805747+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0805FR-079K9L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.810747+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0805FR-079M9L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.811747+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC0805FR-079R9L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:19.808746+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC1206FR-072K5L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:20.132619+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC1206FR-072M5L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:20.141615+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC1206FR-072R5L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:20.122747+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC1206FR-072RL": {
+    "candidates": [
+      {
+        "lcsc": 137316,
+        "manufacturer": "YAGEO",
+        "mfr": "RC1206FR-072RL",
+        "package": "1206"
+      },
+      {
+        "lcsc": 9900176106,
+        "manufacturer": "",
+        "mfr": "RC1206FR-072RL",
+        "package": "1206"
+      }
+    ],
+    "checked_at": "2026-09-05T12:47:21.875180+00:00",
+    "source": "jlcparts SQLite",
+    "status": "ambiguous"
+  },
+  "RC1206FR-073K1L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:20.352608+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC1206FR-073M1L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:20.361607+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC1206FR-073R1L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:20.343609+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC1206FR-074K2L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:20.520609+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC1206FR-074M2L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:20.530608+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC1206FR-074R2L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:20.510608+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC1206FR-079K9L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:21.038180+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC1206FR-079M9L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:21.049180+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  },
+  "RC1206FR-079R9L": {
+    "candidates": [],
+    "checked_at": "2026-09-05T12:47:21.028187+00:00",
+    "source": "jlcparts SQLite",
+    "status": "no_exact_match"
+  }
+}

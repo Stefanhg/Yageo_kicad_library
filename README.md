@@ -143,6 +143,8 @@ The default RC0603 entry is the one currently wired for actual generation. The o
 
 ## Notes
 
+- LCSC number lookup, the persistent MPN mapping table, and offline jlcparts database support are documented in [Scripts/LCSC/README.md](Scripts/LCSC/README.md). Both KiCad generators reuse cached LCSC mappings automatically.
+
 - The KiCad library copies live under [Libraries/Kicad](Libraries/Kicad).
 - The Eagle library copies live under [Libraries/Eaglecad](Libraries/Eaglecad).
 - The old Eagle material is still present in the repo, but the KiCad generator is the path to extend going forward.

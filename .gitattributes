@@ -1,0 +1,6 @@
+# Keep text files consistent across platforms, regardless of core.autocrlf.
+* text=auto eol=lf
+
+# Windows command scripts use native line endings.
+*.bat text eol=crlf
+*.cmd text eol=crlf

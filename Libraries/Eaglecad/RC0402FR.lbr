@@ -132,6 +132,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-070RL"/>
+<attribute name="LCSC" value="C106231"/>
 </technology>
 </technologies>
 </device>
@@ -184,6 +185,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071RL"/>
+<attribute name="LCSC" value="C185446"/>
 </technology>
 </technologies>
 </device>
@@ -210,6 +212,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0710RL"/>
+<attribute name="LCSC" value="C138066"/>
 </technology>
 </technologies>
 </device>
@@ -288,6 +291,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0710KL"/>
+<attribute name="LCSC" value="C60490"/>
 </technology>
 </technologies>
 </device>
@@ -314,6 +318,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07100KL"/>
+<attribute name="LCSC" value="C60491"/>
 </technology>
 </technologies>
 </device>
@@ -340,6 +345,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071ML"/>
+<attribute name="LCSC" value="C138033"/>
 </technology>
 </technologies>
 </device>
@@ -366,6 +372,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0710ML"/>
+<attribute name="LCSC" value="C138067"/>
 </technology>
 </technologies>
 </device>
@@ -392,6 +399,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071R5L"/>
+<attribute name="LCSC" value="C327253"/>
 </technology>
 </technologies>
 </device>
@@ -418,6 +426,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0710R5L"/>
+<attribute name="LCSC" value="C477603"/>
 </technology>
 </technologies>
 </device>
@@ -444,6 +453,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07105RL"/>
+<attribute name="LCSC" value="C171696"/>
 </technology>
 </technologies>
 </device>
@@ -470,6 +480,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071K5L"/>
+<attribute name="LCSC" value="C114759"/>
 </technology>
 </technologies>
 </device>
@@ -496,6 +507,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0710K5L"/>
+<attribute name="LCSC" value="C171695"/>
 </technology>
 </technologies>
 </device>
@@ -522,6 +534,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07105KL"/>
+<attribute name="LCSC" value="C171671"/>
 </technology>
 </technologies>
 </device>
@@ -548,6 +561,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071M5L"/>
+<attribute name="LCSC" value="C138034"/>
 </technology>
 </technologies>
 </device>
@@ -574,6 +588,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071R1L"/>
+<attribute name="LCSC" value="C327254"/>
 </technology>
 </technologies>
 </device>
@@ -600,6 +615,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0711RL"/>
+<attribute name="LCSC" value="C295875"/>
 </technology>
 </technologies>
 </device>
@@ -626,6 +642,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07110RL"/>
+<attribute name="LCSC" value="C138064"/>
 </technology>
 </technologies>
 </device>
@@ -652,6 +669,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071K1L"/>
+<attribute name="LCSC" value="C138041"/>
 </technology>
 </technologies>
 </device>
@@ -678,6 +696,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0711KL"/>
+<attribute name="LCSC" value="C138063"/>
 </technology>
 </technologies>
 </device>
@@ -704,6 +723,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07110KL"/>
+<attribute name="LCSC" value="C138065"/>
 </technology>
 </technologies>
 </device>
@@ -730,6 +750,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071M1L"/>
+<attribute name="LCSC" value="C185448"/>
 </technology>
 </technologies>
 </device>
@@ -756,6 +777,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071R15L"/>
+<attribute name="LCSC" value="C477193"/>
 </technology>
 </technologies>
 </device>
@@ -782,6 +804,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0711R5L"/>
+<attribute name="LCSC" value="C273702"/>
 </technology>
 </technologies>
 </device>
@@ -808,6 +831,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07115RL"/>
+<attribute name="LCSC" value="C295872"/>
 </technology>
 </technologies>
 </device>
@@ -834,6 +858,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071K15L"/>
+<attribute name="LCSC" value="C477191"/>
 </technology>
 </technologies>
 </device>
@@ -860,6 +885,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0711K5L"/>
+<attribute name="LCSC" value="C295874"/>
 </technology>
 </technologies>
 </device>
@@ -886,6 +912,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07115KL"/>
+<attribute name="LCSC" value="C273341"/>
 </technology>
 </technologies>
 </device>
@@ -912,6 +939,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071M15L"/>
+<attribute name="LCSC" value="C477192"/>
 </technology>
 </technologies>
 </device>
@@ -938,6 +966,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071R21L"/>
+<attribute name="LCSC" value="C477197"/>
 </technology>
 </technologies>
 </device>
@@ -964,6 +993,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0712R1L"/>
+<attribute name="LCSC" value="C477606"/>
 </technology>
 </technologies>
 </device>
@@ -990,6 +1020,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07121RL"/>
+<attribute name="LCSC" value="C194878"/>
 </technology>
 </technologies>
 </device>
@@ -1016,6 +1047,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071K21L"/>
+<attribute name="LCSC" value="C163484"/>
 </technology>
 </technologies>
 </device>
@@ -1042,6 +1074,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0712K1L"/>
+<attribute name="LCSC" value="C132157"/>
 </technology>
 </technologies>
 </device>
@@ -1068,6 +1101,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07121KL"/>
+<attribute name="LCSC" value="C112303"/>
 </technology>
 </technologies>
 </device>
@@ -1094,6 +1128,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071M21L"/>
+<attribute name="LCSC" value="C477196"/>
 </technology>
 </technologies>
 </device>
@@ -1120,6 +1155,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071R27L"/>
+<attribute name="LCSC" value="C477201"/>
 </technology>
 </technologies>
 </device>
@@ -1146,6 +1182,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0712R7L"/>
+<attribute name="LCSC" value="C245884"/>
 </technology>
 </technologies>
 </device>
@@ -1172,6 +1209,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07127RL"/>
+<attribute name="LCSC" value="C276259"/>
 </technology>
 </technologies>
 </device>
@@ -1198,6 +1236,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071K27L"/>
+<attribute name="LCSC" value="C327364"/>
 </technology>
 </technologies>
 </device>
@@ -1224,6 +1263,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0712K7L"/>
+<attribute name="LCSC" value="C138059"/>
 </technology>
 </technologies>
 </device>
@@ -1250,6 +1290,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07127KL"/>
+<attribute name="LCSC" value="C138061"/>
 </technology>
 </technologies>
 </device>
@@ -1276,6 +1317,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071M27L"/>
+<attribute name="LCSC" value="C477200"/>
 </technology>
 </technologies>
 </device>
@@ -1302,6 +1344,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071R33L"/>
+<attribute name="LCSC" value="C477203"/>
 </technology>
 </technologies>
 </device>
@@ -1328,6 +1371,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0713R3L"/>
+<attribute name="LCSC" value="C477608"/>
 </technology>
 </technologies>
 </device>
@@ -1354,6 +1398,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07133RL"/>
+<attribute name="LCSC" value="C327373"/>
 </technology>
 </technologies>
 </device>
@@ -1380,6 +1425,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071K33L"/>
+<attribute name="LCSC" value="C276261"/>
 </technology>
 </technologies>
 </device>
@@ -1406,6 +1452,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0713K3L"/>
+<attribute name="LCSC" value="C274352"/>
 </technology>
 </technologies>
 </device>
@@ -1432,6 +1479,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07133KL"/>
+<attribute name="LCSC" value="C327374"/>
 </technology>
 </technologies>
 </device>
@@ -1458,6 +1506,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071M33L"/>
+<attribute name="LCSC" value="C477202"/>
 </technology>
 </technologies>
 </device>
@@ -1484,6 +1533,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071R4L"/>
+<attribute name="LCSC" value="C477214"/>
 </technology>
 </technologies>
 </device>
@@ -1510,6 +1560,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0714RL"/>
+<attribute name="LCSC" value="C477614"/>
 </technology>
 </technologies>
 </device>
@@ -1536,6 +1587,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07140RL"/>
+<attribute name="LCSC" value="C138056"/>
 </technology>
 </technologies>
 </device>
@@ -1562,6 +1614,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071K4L"/>
+<attribute name="LCSC" value="C375491"/>
 </technology>
 </technologies>
 </device>
@@ -1588,6 +1641,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0714KL"/>
+<attribute name="LCSC" value="C327372"/>
 </technology>
 </technologies>
 </device>
@@ -1614,6 +1668,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07140KL"/>
+<attribute name="LCSC" value="C114151"/>
 </technology>
 </technologies>
 </device>
@@ -1640,6 +1695,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071M4L"/>
+<attribute name="LCSC" value="C477213"/>
 </technology>
 </technologies>
 </device>
@@ -1666,6 +1722,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071R47L"/>
+<attribute name="LCSC" value="C477212"/>
 </technology>
 </technologies>
 </device>
@@ -1692,6 +1749,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0714R7L"/>
+<attribute name="LCSC" value="C477612"/>
 </technology>
 </technologies>
 </device>
@@ -1718,6 +1776,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07147RL"/>
+<attribute name="LCSC" value="C245885"/>
 </technology>
 </technologies>
 </device>
@@ -1744,6 +1803,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071K47L"/>
+<attribute name="LCSC" value="C185454"/>
 </technology>
 </technologies>
 </device>
@@ -1770,6 +1830,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0714K7L"/>
+<attribute name="LCSC" value="C138055"/>
 </technology>
 </technologies>
 </device>
@@ -1796,6 +1857,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07147KL"/>
+<attribute name="LCSC" value="C163489"/>
 </technology>
 </technologies>
 </device>
@@ -1822,6 +1884,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071M47L"/>
+<attribute name="LCSC" value="C477211"/>
 </technology>
 </technologies>
 </device>
@@ -1848,6 +1911,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071R54L"/>
+<attribute name="LCSC" value="C477216"/>
 </technology>
 </technologies>
 </device>
@@ -1874,6 +1938,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0715R4L"/>
+<attribute name="LCSC" value="C273689"/>
 </technology>
 </technologies>
 </device>
@@ -1900,6 +1965,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07154RL"/>
+<attribute name="LCSC" value="C477616"/>
 </technology>
 </technologies>
 </device>
@@ -1926,6 +1992,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071K54L"/>
+<attribute name="LCSC" value="C138039"/>
 </technology>
 </technologies>
 </device>
@@ -1952,6 +2019,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0715K4L"/>
+<attribute name="LCSC" value="C185463"/>
 </technology>
 </technologies>
 </device>
@@ -1978,6 +2046,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07154KL"/>
+<attribute name="LCSC" value="C138053"/>
 </technology>
 </technologies>
 </device>
@@ -2004,6 +2073,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071M54L"/>
+<attribute name="LCSC" value="C477215"/>
 </technology>
 </technologies>
 </device>
@@ -2030,6 +2100,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071R62L"/>
+<attribute name="LCSC" value="C477220"/>
 </technology>
 </technologies>
 </device>
@@ -2056,6 +2127,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0716R2L"/>
+<attribute name="LCSC" value="C477619"/>
 </technology>
 </technologies>
 </device>
@@ -2082,6 +2154,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07162RL"/>
+<attribute name="LCSC" value="C185461"/>
 </technology>
 </technologies>
 </device>
@@ -2108,6 +2181,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071K62L"/>
+<attribute name="LCSC" value="C138038"/>
 </technology>
 </technologies>
 </device>
@@ -2134,6 +2208,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0716K2L"/>
+<attribute name="LCSC" value="C138050"/>
 </technology>
 </technologies>
 </device>
@@ -2160,6 +2235,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07162KL"/>
+<attribute name="LCSC" value="C185462"/>
 </technology>
 </technologies>
 </device>
@@ -2186,6 +2262,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071M62L"/>
+<attribute name="LCSC" value="C477219"/>
 </technology>
 </technologies>
 </device>
@@ -2212,6 +2289,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071R69L"/>
+<attribute name="LCSC" value="C477223"/>
 </technology>
 </technologies>
 </device>
@@ -2238,6 +2316,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0716R9L"/>
+<attribute name="LCSC" value="C273694"/>
 </technology>
 </technologies>
 </device>
@@ -2264,6 +2343,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07169RL"/>
+<attribute name="LCSC" value="C138051"/>
 </technology>
 </technologies>
 </device>
@@ -2290,6 +2370,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071K69L"/>
+<attribute name="LCSC" value="C185452"/>
 </technology>
 </technologies>
 </device>
@@ -2316,6 +2397,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0716K9L"/>
+<attribute name="LCSC" value="C163488"/>
 </technology>
 </technologies>
 </device>
@@ -2342,6 +2424,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07169KL"/>
+<attribute name="LCSC" value="C327367"/>
 </technology>
 </technologies>
 </device>
@@ -2368,6 +2451,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071M69L"/>
+<attribute name="LCSC" value="C327244"/>
 </technology>
 </technologies>
 </device>
@@ -2394,6 +2478,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071R78L"/>
+<attribute name="LCSC" value="C477228"/>
 </technology>
 </technologies>
 </device>
@@ -2420,6 +2505,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0717R8L"/>
+<attribute name="LCSC" value="C245886"/>
 </technology>
 </technologies>
 </device>
@@ -2446,6 +2532,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07178RL"/>
+<attribute name="LCSC" value="C477625"/>
 </technology>
 </technologies>
 </device>
@@ -2472,6 +2559,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071K78L"/>
+<attribute name="LCSC" value="C185450"/>
 </technology>
 </technologies>
 </device>
@@ -2498,6 +2586,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0717K8L"/>
+<attribute name="LCSC" value="C185458"/>
 </technology>
 </technologies>
 </device>
@@ -2524,6 +2613,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07178KL"/>
+<attribute name="LCSC" value="C185459"/>
 </technology>
 </technologies>
 </device>
@@ -2550,6 +2640,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071M78L"/>
+<attribute name="LCSC" value="C477227"/>
 </technology>
 </technologies>
 </device>
@@ -2576,6 +2667,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071R87L"/>
+<attribute name="LCSC" value="C477597"/>
 </technology>
 </technologies>
 </device>
@@ -2602,6 +2694,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0718R7L"/>
+<attribute name="LCSC" value="C477626"/>
 </technology>
 </technologies>
 </device>
@@ -2628,6 +2721,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07187RL"/>
+<attribute name="LCSC" value="C274350"/>
 </technology>
 </technologies>
 </device>
@@ -2654,6 +2748,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071K87L"/>
+<attribute name="LCSC" value="C138037"/>
 </technology>
 </technologies>
 </device>
@@ -2680,6 +2775,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0718K7L"/>
+<attribute name="LCSC" value="C295877"/>
 </technology>
 </technologies>
 </device>
@@ -2706,6 +2802,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07187KL"/>
+<attribute name="LCSC" value="C163486"/>
 </technology>
 </technologies>
 </device>
@@ -2732,6 +2829,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071M87L"/>
+<attribute name="LCSC" value="C477596"/>
 </technology>
 </technologies>
 </device>
@@ -2758,6 +2856,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071R96L"/>
+<attribute name="LCSC" value="C477602"/>
 </technology>
 </technologies>
 </device>
@@ -2784,6 +2883,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0719R6L"/>
+<attribute name="LCSC" value="C477630"/>
 </technology>
 </technologies>
 </device>
@@ -2810,6 +2910,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07196RL"/>
+<attribute name="LCSC" value="C477632"/>
 </technology>
 </technologies>
 </device>
@@ -2836,6 +2937,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071K96L"/>
+<attribute name="LCSC" value="C138036"/>
 </technology>
 </technologies>
 </device>
@@ -2862,6 +2964,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0719K6L"/>
+<attribute name="LCSC" value="C477629"/>
 </technology>
 </technologies>
 </device>
@@ -2888,6 +2991,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07196KL"/>
+<attribute name="LCSC" value="C477631"/>
 </technology>
 </technologies>
 </device>
@@ -2914,6 +3018,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-071M96L"/>
+<attribute name="LCSC" value="C477601"/>
 </technology>
 </technologies>
 </device>
@@ -2966,6 +3071,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0720R5L"/>
+<attribute name="LCSC" value="C245888"/>
 </technology>
 </technologies>
 </device>
@@ -2992,6 +3098,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07205RL"/>
+<attribute name="LCSC" value="C477670"/>
 </technology>
 </technologies>
 </device>
@@ -3044,6 +3151,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0720K5L"/>
+<attribute name="LCSC" value="C185445"/>
 </technology>
 </technologies>
 </device>
@@ -3070,6 +3178,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07205KL"/>
+<attribute name="LCSC" value="C477669"/>
 </technology>
 </technologies>
 </device>
@@ -3122,6 +3231,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-072R15L"/>
+<attribute name="LCSC" value="C477636"/>
 </technology>
 </technologies>
 </device>
@@ -3148,6 +3258,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0721R5L"/>
+<attribute name="LCSC" value="C477672"/>
 </technology>
 </technologies>
 </device>
@@ -3174,6 +3285,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07215RL"/>
+<attribute name="LCSC" value="C477673"/>
 </technology>
 </technologies>
 </device>
@@ -3200,6 +3312,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-072K15L"/>
+<attribute name="LCSC" value="C327353"/>
 </technology>
 </technologies>
 </device>
@@ -3226,6 +3339,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0721K5L"/>
+<attribute name="LCSC" value="C185442"/>
 </technology>
 </technologies>
 </device>
@@ -3252,6 +3366,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07215KL"/>
+<attribute name="LCSC" value="C185443"/>
 </technology>
 </technologies>
 </device>
@@ -3278,6 +3393,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-072M15L"/>
+<attribute name="LCSC" value="C477635"/>
 </technology>
 </technologies>
 </device>
@@ -3304,6 +3420,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-072R26L"/>
+<attribute name="LCSC" value="C477643"/>
 </technology>
 </technologies>
 </device>
@@ -3330,6 +3447,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0722R6L"/>
+<attribute name="LCSC" value="C272377"/>
 </technology>
 </technologies>
 </device>
@@ -3356,6 +3474,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07226RL"/>
+<attribute name="LCSC" value="C82852"/>
 </technology>
 </technologies>
 </device>
@@ -3382,6 +3501,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-072K26L"/>
+<attribute name="LCSC" value="C477641"/>
 </technology>
 </technologies>
 </device>
@@ -3408,6 +3528,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0722K6L"/>
+<attribute name="LCSC" value="C477674"/>
 </technology>
 </technologies>
 </device>
@@ -3434,6 +3555,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07226KL"/>
+<attribute name="LCSC" value="C273712"/>
 </technology>
 </technologies>
 </device>
@@ -3460,6 +3582,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-072M26L"/>
+<attribute name="LCSC" value="C477642"/>
 </technology>
 </technologies>
 </device>
@@ -3486,6 +3609,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-072R37L"/>
+<attribute name="LCSC" value="C477648"/>
 </technology>
 </technologies>
 </device>
@@ -3512,6 +3636,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0723R7L"/>
+<attribute name="LCSC" value="C477677"/>
 </technology>
 </technologies>
 </device>
@@ -3538,6 +3663,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07237RL"/>
+<attribute name="LCSC" value="C477678"/>
 </technology>
 </technologies>
 </device>
@@ -3590,6 +3716,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0723K7L"/>
+<attribute name="LCSC" value="C327362"/>
 </technology>
 </technologies>
 </device>
@@ -3616,6 +3743,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07237KL"/>
+<attribute name="LCSC" value="C273703"/>
 </technology>
 </technologies>
 </device>
@@ -3642,6 +3770,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-072M37L"/>
+<attribute name="LCSC" value="C477647"/>
 </technology>
 </technologies>
 </device>
@@ -3668,6 +3797,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-072R49L"/>
+<attribute name="LCSC" value="C138012"/>
 </technology>
 </technologies>
 </device>
@@ -3694,6 +3824,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0724R9L"/>
+<attribute name="LCSC" value="C138025"/>
 </technology>
 </technologies>
 </device>
@@ -3720,6 +3851,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07249RL"/>
+<attribute name="LCSC" value="C185439"/>
 </technology>
 </technologies>
 </device>
@@ -3746,6 +3878,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-072K49L"/>
+<attribute name="LCSC" value="C145071"/>
 </technology>
 </technologies>
 </device>
@@ -3772,6 +3905,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0724K9L"/>
+<attribute name="LCSC" value="C138027"/>
 </technology>
 </technologies>
 </device>
@@ -3798,6 +3932,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07249KL"/>
+<attribute name="LCSC" value="C163476"/>
 </technology>
 </technologies>
 </device>
@@ -3824,6 +3959,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-072M49L"/>
+<attribute name="LCSC" value="C470021"/>
 </technology>
 </technologies>
 </device>
@@ -3850,6 +3986,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-072R61L"/>
+<attribute name="LCSC" value="C477657"/>
 </technology>
 </technologies>
 </device>
@@ -3876,6 +4013,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0726R1L"/>
+<attribute name="LCSC" value="C185436"/>
 </technology>
 </technologies>
 </device>
@@ -3902,6 +4040,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07261RL"/>
+<attribute name="LCSC" value="C273335"/>
 </technology>
 </technologies>
 </device>
@@ -3928,6 +4067,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-072K61L"/>
+<attribute name="LCSC" value="C163472"/>
 </technology>
 </technologies>
 </device>
@@ -3954,6 +4094,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0726K1L"/>
+<attribute name="LCSC" value="C155697"/>
 </technology>
 </technologies>
 </device>
@@ -3980,6 +4121,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07261KL"/>
+<attribute name="LCSC" value="C185437"/>
 </technology>
 </technologies>
 </device>
@@ -4006,6 +4148,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-072M61L"/>
+<attribute name="LCSC" value="C477656"/>
 </technology>
 </technologies>
 </device>
@@ -4032,6 +4175,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-072R74L"/>
+<attribute name="LCSC" value="C477661"/>
 </technology>
 </technologies>
 </device>
@@ -4058,6 +4202,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0727R4L"/>
+<attribute name="LCSC" value="C274349"/>
 </technology>
 </technologies>
 </device>
@@ -4084,6 +4229,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07274RL"/>
+<attribute name="LCSC" value="C327359"/>
 </technology>
 </technologies>
 </device>
@@ -4110,6 +4256,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-072K74L"/>
+<attribute name="LCSC" value="C185430"/>
 </technology>
 </technologies>
 </device>
@@ -4136,6 +4283,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0727K4L"/>
+<attribute name="LCSC" value="C273730"/>
 </technology>
 </technologies>
 </device>
@@ -4162,6 +4310,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07274KL"/>
+<attribute name="LCSC" value="C185435"/>
 </technology>
 </technologies>
 </device>
@@ -4188,6 +4337,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-072M74L"/>
+<attribute name="LCSC" value="C470022"/>
 </technology>
 </technologies>
 </device>
@@ -4214,6 +4364,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-072R87L"/>
+<attribute name="LCSC" value="C477664"/>
 </technology>
 </technologies>
 </device>
@@ -4240,6 +4391,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0728R7L"/>
+<attribute name="LCSC" value="C477680"/>
 </technology>
 </technologies>
 </device>
@@ -4266,6 +4418,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07287RL"/>
+<attribute name="LCSC" value="C375493"/>
 </technology>
 </technologies>
 </device>
@@ -4292,6 +4445,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-072K87L"/>
+<attribute name="LCSC" value="C185429"/>
 </technology>
 </technologies>
 </device>
@@ -4318,6 +4472,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0728K7L"/>
+<attribute name="LCSC" value="C185433"/>
 </technology>
 </technologies>
 </device>
@@ -4344,6 +4499,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07287KL"/>
+<attribute name="LCSC" value="C327358"/>
 </technology>
 </technologies>
 </device>
@@ -4370,6 +4526,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-072M87L"/>
+<attribute name="LCSC" value="C477663"/>
 </technology>
 </technologies>
 </device>
@@ -4422,6 +4579,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0730R1L"/>
+<attribute name="LCSC" value="C273706"/>
 </technology>
 </technologies>
 </device>
@@ -4448,6 +4606,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07301RL"/>
+<attribute name="LCSC" value="C477711"/>
 </technology>
 </technologies>
 </device>
@@ -4500,6 +4659,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0730K1L"/>
+<attribute name="LCSC" value="C138009"/>
 </technology>
 </technologies>
 </device>
@@ -4526,6 +4686,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07301KL"/>
+<attribute name="LCSC" value="C171693"/>
 </technology>
 </technologies>
 </device>
@@ -4578,6 +4739,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-073R16L"/>
+<attribute name="LCSC" value="C477688"/>
 </technology>
 </technologies>
 </device>
@@ -4604,6 +4766,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0731R6L"/>
+<attribute name="LCSC" value="C327352"/>
 </technology>
 </technologies>
 </device>
@@ -4630,6 +4793,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07316RL"/>
+<attribute name="LCSC" value="C273715"/>
 </technology>
 </technologies>
 </device>
@@ -4656,6 +4820,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-073K16L"/>
+<attribute name="LCSC" value="C163466"/>
 </technology>
 </technologies>
 </device>
@@ -4682,6 +4847,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0731K6L"/>
+<attribute name="LCSC" value="C276265"/>
 </technology>
 </technologies>
 </device>
@@ -4708,6 +4874,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07316KL"/>
+<attribute name="LCSC" value="C185427"/>
 </technology>
 </technologies>
 </device>
@@ -4734,6 +4901,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-073M16L"/>
+<attribute name="LCSC" value="C477687"/>
 </technology>
 </technologies>
 </device>
@@ -4760,6 +4928,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-073R32L"/>
+<attribute name="LCSC" value="C477692"/>
 </technology>
 </technologies>
 </device>
@@ -4786,6 +4955,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0733R2L"/>
+<attribute name="LCSC" value="C276266"/>
 </technology>
 </technologies>
 </device>
@@ -4812,6 +4982,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07332RL"/>
+<attribute name="LCSC" value="C138004"/>
 </technology>
 </technologies>
 </device>
@@ -4838,6 +5009,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-073K32L"/>
+<attribute name="LCSC" value="C137993"/>
 </technology>
 </technologies>
 </device>
@@ -4864,6 +5036,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0733K2L"/>
+<attribute name="LCSC" value="C130276"/>
 </technology>
 </technologies>
 </device>
@@ -4890,6 +5063,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07332KL"/>
+<attribute name="LCSC" value="C138005"/>
 </technology>
 </technologies>
 </device>
@@ -4916,6 +5090,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-073M32L"/>
+<attribute name="LCSC" value="C477691"/>
 </technology>
 </technologies>
 </device>
@@ -4942,6 +5117,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-073R48L"/>
+<attribute name="LCSC" value="C477695"/>
 </technology>
 </technologies>
 </device>
@@ -4968,6 +5144,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0734R8L"/>
+<attribute name="LCSC" value="C138001"/>
 </technology>
 </technologies>
 </device>
@@ -4994,6 +5171,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07348RL"/>
+<attribute name="LCSC" value="C477714"/>
 </technology>
 </technologies>
 </device>
@@ -5020,6 +5198,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-073K48L"/>
+<attribute name="LCSC" value="C185418"/>
 </technology>
 </technologies>
 </device>
@@ -5046,6 +5225,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0734K8L"/>
+<attribute name="LCSC" value="C327350"/>
 </technology>
 </technologies>
 </device>
@@ -5072,6 +5252,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07348KL"/>
+<attribute name="LCSC" value="C273713"/>
 </technology>
 </technologies>
 </device>
@@ -5098,6 +5279,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-073M48L"/>
+<attribute name="LCSC" value="C477694"/>
 </technology>
 </technologies>
 </device>
@@ -5124,6 +5306,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-073R65L"/>
+<attribute name="LCSC" value="C477701"/>
 </technology>
 </technologies>
 </device>
@@ -5150,6 +5333,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0736R5L"/>
+<attribute name="LCSC" value="C477716"/>
 </technology>
 </technologies>
 </device>
@@ -5176,6 +5360,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07365RL"/>
+<attribute name="LCSC" value="C327348"/>
 </technology>
 </technologies>
 </device>
@@ -5202,6 +5387,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-073K65L"/>
+<attribute name="LCSC" value="C163465"/>
 </technology>
 </technologies>
 </device>
@@ -5228,6 +5414,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0736K5L"/>
+<attribute name="LCSC" value="C15011"/>
 </technology>
 </technologies>
 </device>
@@ -5254,6 +5441,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07365KL"/>
+<attribute name="LCSC" value="C276268"/>
 </technology>
 </technologies>
 </device>
@@ -5280,6 +5468,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-073M65L"/>
+<attribute name="LCSC" value="C477700"/>
 </technology>
 </technologies>
 </device>
@@ -5306,6 +5495,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-073R83L"/>
+<attribute name="LCSC" value="C477708"/>
 </technology>
 </technologies>
 </device>
@@ -5332,6 +5522,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0738R3L"/>
+<attribute name="LCSC" value="C137998"/>
 </technology>
 </technologies>
 </device>
@@ -5358,6 +5549,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07383RL"/>
+<attribute name="LCSC" value="C276269"/>
 </technology>
 </technologies>
 </device>
@@ -5384,6 +5576,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-073K83L"/>
+<attribute name="LCSC" value="C185417"/>
 </technology>
 </technologies>
 </device>
@@ -5410,6 +5603,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0738K3L"/>
+<attribute name="LCSC" value="C273719"/>
 </technology>
 </technologies>
 </device>
@@ -5436,6 +5630,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07383KL"/>
+<attribute name="LCSC" value="C163468"/>
 </technology>
 </technologies>
 </device>
@@ -5462,6 +5657,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-073M83L"/>
+<attribute name="LCSC" value="C477707"/>
 </technology>
 </technologies>
 </device>
@@ -5514,6 +5710,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0740R2L"/>
+<attribute name="LCSC" value="C274892"/>
 </technology>
 </technologies>
 </device>
@@ -5540,6 +5737,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07402RL"/>
+<attribute name="LCSC" value="C137984"/>
 </technology>
 </technologies>
 </device>
@@ -5592,6 +5790,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0740K2L"/>
+<attribute name="LCSC" value="C137983"/>
 </technology>
 </technologies>
 </device>
@@ -5618,6 +5817,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07402KL"/>
+<attribute name="LCSC" value="C327345"/>
 </technology>
 </technologies>
 </device>
@@ -5670,6 +5870,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-074R22L"/>
+<attribute name="LCSC" value="C477722"/>
 </technology>
 </technologies>
 </device>
@@ -5696,6 +5897,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0742R2L"/>
+<attribute name="LCSC" value="C477737"/>
 </technology>
 </technologies>
 </device>
@@ -5722,6 +5924,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07422RL"/>
+<attribute name="LCSC" value="C272376"/>
 </technology>
 </technologies>
 </device>
@@ -5748,6 +5951,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-074K22L"/>
+<attribute name="LCSC" value="C185410"/>
 </technology>
 </technologies>
 </device>
@@ -5774,6 +5978,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0742K2L"/>
+<attribute name="LCSC" value="C276270"/>
 </technology>
 </technologies>
 </device>
@@ -5800,6 +6005,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07422KL"/>
+<attribute name="LCSC" value="C477738"/>
 </technology>
 </technologies>
 </device>
@@ -5826,6 +6032,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-074M22L"/>
+<attribute name="LCSC" value="C477721"/>
 </technology>
 </technologies>
 </device>
@@ -5852,6 +6059,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-074R42L"/>
+<attribute name="LCSC" value="C477729"/>
 </technology>
 </technologies>
 </device>
@@ -5878,6 +6086,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0744R2L"/>
+<attribute name="LCSC" value="C185413"/>
 </technology>
 </technologies>
 </device>
@@ -5904,6 +6113,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07442RL"/>
+<attribute name="LCSC" value="C185414"/>
 </technology>
 </technologies>
 </device>
@@ -5930,6 +6140,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-074K42L"/>
+<attribute name="LCSC" value="C137967"/>
 </technology>
 </technologies>
 </device>
@@ -5956,6 +6167,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0744K2L"/>
+<attribute name="LCSC" value="C354260"/>
 </technology>
 </technologies>
 </device>
@@ -5982,6 +6194,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07442KL"/>
+<attribute name="LCSC" value="C273339"/>
 </technology>
 </technologies>
 </device>
@@ -6008,6 +6221,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-074M42L"/>
+<attribute name="LCSC" value="C477728"/>
 </technology>
 </technologies>
 </device>
@@ -6034,6 +6248,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-074R64L"/>
+<attribute name="LCSC" value="C477732"/>
 </technology>
 </technologies>
 </device>
@@ -6060,6 +6275,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0746R4L"/>
+<attribute name="LCSC" value="C273734"/>
 </technology>
 </technologies>
 </device>
@@ -6086,6 +6302,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07464RL"/>
+<attribute name="LCSC" value="C477741"/>
 </technology>
 </technologies>
 </device>
@@ -6112,6 +6329,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-074K64L"/>
+<attribute name="LCSC" value="C309548"/>
 </technology>
 </technologies>
 </device>
@@ -6138,6 +6356,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0746K4L"/>
+<attribute name="LCSC" value="C185412"/>
 </technology>
 </technologies>
 </device>
@@ -6164,6 +6383,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07464KL"/>
+<attribute name="LCSC" value="C477740"/>
 </technology>
 </technologies>
 </device>
@@ -6190,6 +6410,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-074M64L"/>
+<attribute name="LCSC" value="C477731"/>
 </technology>
 </technologies>
 </device>
@@ -6216,6 +6437,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-074R87L"/>
+<attribute name="LCSC" value="C477736"/>
 </technology>
 </technologies>
 </device>
@@ -6242,6 +6464,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0748R7L"/>
+<attribute name="LCSC" value="C185411"/>
 </technology>
 </technologies>
 </device>
@@ -6268,6 +6491,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07487RL"/>
+<attribute name="LCSC" value="C327341"/>
 </technology>
 </technologies>
 </device>
@@ -6294,6 +6518,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-074K87L"/>
+<attribute name="LCSC" value="C276272"/>
 </technology>
 </technologies>
 </device>
@@ -6320,6 +6545,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0748K7L"/>
+<attribute name="LCSC" value="C137972"/>
 </technology>
 </technologies>
 </device>
@@ -6346,6 +6572,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07487KL"/>
+<attribute name="LCSC" value="C477743"/>
 </technology>
 </technologies>
 </device>
@@ -6372,6 +6599,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-074M87L"/>
+<attribute name="LCSC" value="C477735"/>
 </technology>
 </technologies>
 </device>
@@ -6398,6 +6626,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-075R11L"/>
+<attribute name="LCSC" value="C477745"/>
 </technology>
 </technologies>
 </device>
@@ -6424,6 +6653,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0751R1L"/>
+<attribute name="LCSC" value="C477761"/>
 </technology>
 </technologies>
 </device>
@@ -6450,6 +6680,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07511RL"/>
+<attribute name="LCSC" value="C276274"/>
 </technology>
 </technologies>
 </device>
@@ -6476,6 +6707,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-075K11L"/>
+<attribute name="LCSC" value="C274895"/>
 </technology>
 </technologies>
 </device>
@@ -6502,6 +6734,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0751K1L"/>
+<attribute name="LCSC" value="C327339"/>
 </technology>
 </technologies>
 </device>
@@ -6528,6 +6761,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07511KL"/>
+<attribute name="LCSC" value="C163461"/>
 </technology>
 </technologies>
 </device>
@@ -6554,6 +6788,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-075M11L"/>
+<attribute name="LCSC" value="C477744"/>
 </technology>
 </technologies>
 </device>
@@ -6580,6 +6815,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-075R36L"/>
+<attribute name="LCSC" value="C477750"/>
 </technology>
 </technologies>
 </device>
@@ -6606,6 +6842,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0753R6L"/>
+<attribute name="LCSC" value="C273729"/>
 </technology>
 </technologies>
 </device>
@@ -6632,6 +6869,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07536RL"/>
+<attribute name="LCSC" value="C273735"/>
 </technology>
 </technologies>
 </device>
@@ -6658,6 +6896,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-075K36L"/>
+<attribute name="LCSC" value="C185407"/>
 </technology>
 </technologies>
 </device>
@@ -6684,6 +6923,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0753K6L"/>
+<attribute name="LCSC" value="C273330"/>
 </technology>
 </technologies>
 </device>
@@ -6710,6 +6950,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07536KL"/>
+<attribute name="LCSC" value="C327337"/>
 </technology>
 </technologies>
 </device>
@@ -6736,6 +6977,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-075M36L"/>
+<attribute name="LCSC" value="C477749"/>
 </technology>
 </technologies>
 </device>
@@ -6762,6 +7004,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-075R62L"/>
+<attribute name="LCSC" value="C477754"/>
 </technology>
 </technologies>
 </device>
@@ -6788,6 +7031,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0756R2L"/>
+<attribute name="LCSC" value="C295880"/>
 </technology>
 </technologies>
 </device>
@@ -6814,6 +7058,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07562RL"/>
+<attribute name="LCSC" value="C295879"/>
 </technology>
 </technologies>
 </device>
@@ -6840,6 +7085,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-075K62L"/>
+<attribute name="LCSC" value="C185406"/>
 </technology>
 </technologies>
 </device>
@@ -6866,6 +7112,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0756K2L"/>
+<attribute name="LCSC" value="C183355"/>
 </technology>
 </technologies>
 </device>
@@ -6892,6 +7139,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07562KL"/>
+<attribute name="LCSC" value="C273337"/>
 </technology>
 </technologies>
 </device>
@@ -6918,6 +7166,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-075M62L"/>
+<attribute name="LCSC" value="C477753"/>
 </technology>
 </technologies>
 </device>
@@ -6944,6 +7193,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-075R9L"/>
+<attribute name="LCSC" value="C477758"/>
 </technology>
 </technologies>
 </device>
@@ -6970,6 +7220,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0759RL"/>
+<attribute name="LCSC" value="C273340"/>
 </technology>
 </technologies>
 </device>
@@ -6996,6 +7247,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07590RL"/>
+<attribute name="LCSC" value="C327335"/>
 </technology>
 </technologies>
 </device>
@@ -7022,6 +7274,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-075K9L"/>
+<attribute name="LCSC" value="C273691"/>
 </technology>
 </technologies>
 </device>
@@ -7048,6 +7301,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0759KL"/>
+<attribute name="LCSC" value="C163459"/>
 </technology>
 </technologies>
 </device>
@@ -7074,6 +7328,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07590KL"/>
+<attribute name="LCSC" value="C477764"/>
 </technology>
 </technologies>
 </device>
@@ -7100,6 +7355,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-075M9L"/>
+<attribute name="LCSC" value="C477757"/>
 </technology>
 </technologies>
 </device>
@@ -7126,6 +7382,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-076R19L"/>
+<attribute name="LCSC" value="C477767"/>
 </technology>
 </technologies>
 </device>
@@ -7152,6 +7409,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0761R9L"/>
+<attribute name="LCSC" value="C137953"/>
 </technology>
 </technologies>
 </device>
@@ -7178,6 +7436,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07619RL"/>
+<attribute name="LCSC" value="C309549"/>
 </technology>
 </technologies>
 </device>
@@ -7204,6 +7463,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-076K19L"/>
+<attribute name="LCSC" value="C112297"/>
 </technology>
 </technologies>
 </device>
@@ -7230,6 +7490,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0761K9L"/>
+<attribute name="LCSC" value="C327331"/>
 </technology>
 </technologies>
 </device>
@@ -7256,6 +7517,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07619KL"/>
+<attribute name="LCSC" value="C327332"/>
 </technology>
 </technologies>
 </device>
@@ -7282,6 +7544,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-076M19L"/>
+<attribute name="LCSC" value="C477766"/>
 </technology>
 </technologies>
 </device>
@@ -7308,6 +7571,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-076R49L"/>
+<attribute name="LCSC" value="C477772"/>
 </technology>
 </technologies>
 </device>
@@ -7334,6 +7598,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0764R9L"/>
+<attribute name="LCSC" value="C273721"/>
 </technology>
 </technologies>
 </device>
@@ -7360,6 +7625,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07649RL"/>
+<attribute name="LCSC" value="C185404"/>
 </technology>
 </technologies>
 </device>
@@ -7386,6 +7652,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-076K49L"/>
+<attribute name="LCSC" value="C364360"/>
 </technology>
 </technologies>
 </device>
@@ -7412,6 +7679,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0764K9L"/>
+<attribute name="LCSC" value="C185403"/>
 </technology>
 </technologies>
 </device>
@@ -7438,6 +7706,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07649KL"/>
+<attribute name="LCSC" value="C273690"/>
 </technology>
 </technologies>
 </device>
@@ -7464,6 +7733,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-076M49L"/>
+<attribute name="LCSC" value="C477771"/>
 </technology>
 </technologies>
 </device>
@@ -7490,6 +7760,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-076R81L"/>
+<attribute name="LCSC" value="C477776"/>
 </technology>
 </technologies>
 </device>
@@ -7516,6 +7787,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0768R1L"/>
+<attribute name="LCSC" value="C477781"/>
 </technology>
 </technologies>
 </device>
@@ -7542,6 +7814,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07681RL"/>
+<attribute name="LCSC" value="C245891"/>
 </technology>
 </technologies>
 </device>
@@ -7568,6 +7841,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-076K81L"/>
+<attribute name="LCSC" value="C137945"/>
 </technology>
 </technologies>
 </device>
@@ -7594,6 +7868,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0768K1L"/>
+<attribute name="LCSC" value="C276276"/>
 </technology>
 </technologies>
 </device>
@@ -7620,6 +7895,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07681KL"/>
+<attribute name="LCSC" value="C477782"/>
 </technology>
 </technologies>
 </device>
@@ -7646,6 +7922,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-076M81L"/>
+<attribute name="LCSC" value="C477775"/>
 </technology>
 </technologies>
 </device>
@@ -7672,6 +7949,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-077R15L"/>
+<attribute name="LCSC" value="C477784"/>
 </technology>
 </technologies>
 </device>
@@ -7698,6 +7976,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0771R5L"/>
+<attribute name="LCSC" value="C185399"/>
 </technology>
 </technologies>
 </device>
@@ -7724,6 +8003,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07715RL"/>
+<attribute name="LCSC" value="C137941"/>
 </technology>
 </technologies>
 </device>
@@ -7750,6 +8030,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-077K15L"/>
+<attribute name="LCSC" value="C185395"/>
 </technology>
 </technologies>
 </device>
@@ -7776,6 +8057,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0771K5L"/>
+<attribute name="LCSC" value="C273328"/>
 </technology>
 </technologies>
 </device>
@@ -7802,6 +8084,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07715KL"/>
+<attribute name="LCSC" value="C477792"/>
 </technology>
 </technologies>
 </device>
@@ -7828,6 +8111,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-077M15L"/>
+<attribute name="LCSC" value="C477783"/>
 </technology>
 </technologies>
 </device>
@@ -7854,6 +8138,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-077R5L"/>
+<attribute name="LCSC" value="C185393"/>
 </technology>
 </technologies>
 </device>
@@ -7880,6 +8165,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0775RL"/>
+<attribute name="LCSC" value="C114757"/>
 </technology>
 </technologies>
 </device>
@@ -7906,6 +8192,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07750RL"/>
+<attribute name="LCSC" value="C137936"/>
 </technology>
 </technologies>
 </device>
@@ -7932,6 +8219,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-077K5L"/>
+<attribute name="LCSC" value="C137934"/>
 </technology>
 </technologies>
 </device>
@@ -7958,6 +8246,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0775KL"/>
+<attribute name="LCSC" value="C137935"/>
 </technology>
 </technologies>
 </device>
@@ -7984,6 +8273,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07750KL"/>
+<attribute name="LCSC" value="C137937"/>
 </technology>
 </technologies>
 </device>
@@ -8010,6 +8300,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-077M5L"/>
+<attribute name="LCSC" value="C327241"/>
 </technology>
 </technologies>
 </device>
@@ -8036,6 +8327,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-077R87L"/>
+<attribute name="LCSC" value="C477791"/>
 </technology>
 </technologies>
 </device>
@@ -8062,6 +8354,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0778R7L"/>
+<attribute name="LCSC" value="C274371"/>
 </technology>
 </technologies>
 </device>
@@ -8088,6 +8381,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07787RL"/>
+<attribute name="LCSC" value="C477794"/>
 </technology>
 </technologies>
 </device>
@@ -8114,6 +8408,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-077K87L"/>
+<attribute name="LCSC" value="C185394"/>
 </technology>
 </technologies>
 </device>
@@ -8140,6 +8435,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0778K7L"/>
+<attribute name="LCSC" value="C163454"/>
 </technology>
 </technologies>
 </device>
@@ -8166,6 +8462,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07787KL"/>
+<attribute name="LCSC" value="C477793"/>
 </technology>
 </technologies>
 </device>
@@ -8192,6 +8489,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-077M87L"/>
+<attribute name="LCSC" value="C477790"/>
 </technology>
 </technologies>
 </device>
@@ -8218,6 +8516,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-078R25L"/>
+<attribute name="LCSC" value="C477797"/>
 </technology>
 </technologies>
 </device>
@@ -8244,6 +8543,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0782R5L"/>
+<attribute name="LCSC" value="C309550"/>
 </technology>
 </technologies>
 </device>
@@ -8270,6 +8570,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07825RL"/>
+<attribute name="LCSC" value="C375496"/>
 </technology>
 </technologies>
 </device>
@@ -8296,6 +8597,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-078K25L"/>
+<attribute name="LCSC" value="C185389"/>
 </technology>
 </technologies>
 </device>
@@ -8322,6 +8624,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0782K5L"/>
+<attribute name="LCSC" value="C185391"/>
 </technology>
 </technologies>
 </device>
@@ -8348,6 +8651,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07825KL"/>
+<attribute name="LCSC" value="C477805"/>
 </technology>
 </technologies>
 </device>
@@ -8374,6 +8678,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-078M25L"/>
+<attribute name="LCSC" value="C477796"/>
 </technology>
 </technologies>
 </device>
@@ -8400,6 +8705,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-078R66L"/>
+<attribute name="LCSC" value="C477802"/>
 </technology>
 </technologies>
 </device>
@@ -8426,6 +8732,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0786R6L"/>
+<attribute name="LCSC" value="C295882"/>
 </technology>
 </technologies>
 </device>
@@ -8452,6 +8759,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07866RL"/>
+<attribute name="LCSC" value="C273736"/>
 </technology>
 </technologies>
 </device>
@@ -8478,6 +8786,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-078K66L"/>
+<attribute name="LCSC" value="C185387"/>
 </technology>
 </technologies>
 </device>
@@ -8504,6 +8813,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0786K6L"/>
+<attribute name="LCSC" value="C477807"/>
 </technology>
 </technologies>
 </device>
@@ -8530,6 +8840,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07866KL"/>
+<attribute name="LCSC" value="C137931"/>
 </technology>
 </technologies>
 </device>
@@ -8556,6 +8867,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-078M66L"/>
+<attribute name="LCSC" value="C477801"/>
 </technology>
 </technologies>
 </device>
@@ -8608,6 +8920,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0790R9L"/>
+<attribute name="LCSC" value="C163451"/>
 </technology>
 </technologies>
 </device>
@@ -8634,6 +8947,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07909RL"/>
+<attribute name="LCSC" value="C327324"/>
 </technology>
 </technologies>
 </device>
@@ -8686,6 +9000,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0790K9L"/>
+<attribute name="LCSC" value="C163452"/>
 </technology>
 </technologies>
 </device>
@@ -8712,6 +9027,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07909KL"/>
+<attribute name="LCSC" value="C273737"/>
 </technology>
 </technologies>
 </device>
@@ -8764,6 +9080,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-079R53L"/>
+<attribute name="LCSC" value="C477818"/>
 </technology>
 </technologies>
 </device>
@@ -8790,6 +9107,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0795R3L"/>
+<attribute name="LCSC" value="C273697"/>
 </technology>
 </technologies>
 </device>
@@ -8816,6 +9134,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07953RL"/>
+<attribute name="LCSC" value="C327322"/>
 </technology>
 </technologies>
 </device>
@@ -8842,6 +9161,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-079K53L"/>
+<attribute name="LCSC" value="C295883"/>
 </technology>
 </technologies>
 </device>
@@ -8868,6 +9188,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-0795K3L"/>
+<attribute name="LCSC" value="C276280"/>
 </technology>
 </technologies>
 </device>
@@ -8894,6 +9215,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-07953KL"/>
+<attribute name="LCSC" value="C273738"/>
 </technology>
 </technologies>
 </device>
@@ -8920,6 +9242,7 @@
 <attribute name="VOLTAGE" value="50V"/>
 <attribute name="POWER" value="62.5 mW (1/16 W)"/>
 <attribute name="MOUSER" value="603-RC0402FR-079M53L"/>
+<attribute name="LCSC" value="C477817"/>
 </technology>
 </technologies>
 </device>

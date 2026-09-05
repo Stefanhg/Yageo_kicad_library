@@ -5,8 +5,12 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import sys
 from dataclasses import dataclass
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "LCSC"))
+from lcsc import apply_kicad, load_cache
 
 
 BASE_SYMBOL_TEMPLATE = """\
@@ -508,11 +512,11 @@ def main() -> int:
             output_path = script_dir / f"{series.name}.generated.kicad_sym"
             csv_output_path = output_path.with_suffix(".manifest.csv")
 
-        output_path.write_text(build_library(series, symbol_blocks), encoding="utf-8")
+        output_path.write_text(apply_kicad(build_library(series, symbol_blocks), load_cache()), encoding="utf-8", newline="\n")
 
         if not args.no_csv_output:
             lines = [",".join(csv_header)] + [",".join(row) for row in csv_rows]
-            csv_output_path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+            csv_output_path.write_text("\n".join(lines) + "\n", encoding="utf-8", newline="\n")
 
         print(f"Wrote {output_path}")
         if not args.no_csv_output:

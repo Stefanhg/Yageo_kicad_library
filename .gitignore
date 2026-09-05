@@ -1,2 +1,5 @@
 *.generated*.csv
+*.generated*.kicad_sym
 .venv
+__pycache__/
+Data/LCSC/jlcparts/

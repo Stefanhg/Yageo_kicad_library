@@ -202,6 +202,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C106231" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Footprint" "footprints:RC0402FR-RESC1005X40N"
 			(at 0.762 3.81 0)
 			(show_name no)
@@ -281,6 +282,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C60491" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Footprint" "footprints:RC0402FR-RESC1005X40N"
 			(at 0.762 3.81 0)
 			(show_name no)
@@ -360,6 +362,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C60490" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Footprint" "footprints:RC0402FR-RESC1005X40N"
 			(at 0.762 3.81 0)
 			(show_name no)
@@ -439,6 +442,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114758" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Footprint" "footprints:RC0402FR-RESC1005X40N"
 			(at 0.762 3.81 0)
 			(show_name no)
@@ -518,6 +522,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C138044" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Footprint" "footprints:RC0402FR-RESC1005X40N"
 			(at 0.762 3.81 0)
 			(show_name no)
@@ -676,6 +681,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C112291" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Footprint" "footprints:RC0402FR-RESC1005X40N"
 			(at 0.762 3.81 0)
 			(show_name no)
@@ -755,6 +761,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114765" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Footprint" "footprints:RC0402FR-RESC1005X40N"
 			(at 0.762 3.81 0)
 			(show_name no)
@@ -834,6 +841,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C138006" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Footprint" "footprints:RC0402FR-RESC1005X40N"
 			(at 0.762 3.81 0)
 			(show_name no)
@@ -913,6 +921,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114877" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Footprint" "footprints:RC0402FR-RESC1005X40N"
 			(at 0.762 3.81 0)
 			(show_name no)
@@ -992,6 +1001,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C93943" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Footprint" "footprints:RC0402FR-RESC1005X40N"
 			(at 0.762 3.81 0)
 			(show_name no)
@@ -1071,6 +1081,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C114756" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Footprint" "footprints:RC0402FR-RESC1005X40N"
 			(at 0.762 3.81 0)
 			(show_name no)
@@ -1150,6 +1161,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C137948" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Footprint" "footprints:RC0402FR-RESC1005X40N"
 			(at 0.762 3.81 0)
 			(show_name no)

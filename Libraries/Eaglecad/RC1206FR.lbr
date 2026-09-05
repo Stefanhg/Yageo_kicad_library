@@ -134,6 +134,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="0R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137394"/>
 </technology>
 </technologies>
 </device>
@@ -186,6 +187,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137355"/>
 </technology>
 </technologies>
 </device>
@@ -212,6 +214,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="10R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C108080"/>
 </technology>
 </technologies>
 </device>
@@ -238,6 +241,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="100R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137392"/>
 </technology>
 </technologies>
 </device>
@@ -264,6 +268,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C131398"/>
 </technology>
 </technologies>
 </device>
@@ -290,6 +295,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="10K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C132649"/>
 </technology>
 </technologies>
 </device>
@@ -316,6 +322,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="100K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137393"/>
 </technology>
 </technologies>
 </device>
@@ -342,6 +349,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1M"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C108083"/>
 </technology>
 </technologies>
 </device>
@@ -368,6 +376,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="10M"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C275643"/>
 </technology>
 </technologies>
 </device>
@@ -394,6 +403,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1R5"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137360"/>
 </technology>
 </technologies>
 </device>
@@ -420,6 +430,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="10R5"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488611"/>
 </technology>
 </technologies>
 </device>
@@ -446,6 +457,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="105R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488617"/>
 </technology>
 </technologies>
 </device>
@@ -472,6 +484,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1K5"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C114929"/>
 </technology>
 </technologies>
 </device>
@@ -498,6 +511,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="10K5"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274092"/>
 </technology>
 </technologies>
 </device>
@@ -524,6 +538,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="105K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488616"/>
 </technology>
 </technologies>
 </device>
@@ -550,6 +565,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1M5"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137367"/>
 </technology>
 </technologies>
 </device>
@@ -576,6 +592,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1R1"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137364"/>
 </technology>
 </technologies>
 </device>
@@ -602,6 +619,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="11R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C246045"/>
 </technology>
 </technologies>
 </device>
@@ -628,6 +646,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="110R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274039"/>
 </technology>
 </technologies>
 </device>
@@ -654,6 +673,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1K1"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137377"/>
 </technology>
 </technologies>
 </device>
@@ -680,6 +700,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="11K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C246044"/>
 </technology>
 </technologies>
 </device>
@@ -706,6 +727,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="110K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C246043"/>
 </technology>
 </technologies>
 </device>
@@ -732,6 +754,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1M1"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137370"/>
 </technology>
 </technologies>
 </device>
@@ -758,6 +781,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1R15"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488562"/>
 </technology>
 </technologies>
 </device>
@@ -784,6 +808,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="11R5"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488621"/>
 </technology>
 </technologies>
 </device>
@@ -810,6 +835,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="115R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274053"/>
 </technology>
 </technologies>
 </device>
@@ -836,6 +862,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1K15"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C327255"/>
 </technology>
 </technologies>
 </device>
@@ -862,6 +889,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="11K5"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137391"/>
 </technology>
 </technologies>
 </device>
@@ -888,6 +916,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="115K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488624"/>
 </technology>
 </technologies>
 </device>
@@ -914,6 +943,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1M15"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488561"/>
 </technology>
 </technologies>
 </device>
@@ -940,6 +970,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1R21"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488567"/>
 </technology>
 </technologies>
 </device>
@@ -966,6 +997,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="12R1"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488628"/>
 </technology>
 </technologies>
 </device>
@@ -992,6 +1024,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="121R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274032"/>
 </technology>
 </technologies>
 </device>
@@ -1018,6 +1051,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1K21"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274030"/>
 </technology>
 </technologies>
 </device>
@@ -1044,6 +1078,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="12K1"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488627"/>
 </technology>
 </technologies>
 </device>
@@ -1070,6 +1105,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="121K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488631"/>
 </technology>
 </technologies>
 </device>
@@ -1096,6 +1132,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1M21"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488566"/>
 </technology>
 </technologies>
 </device>
@@ -1122,6 +1159,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1R27"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488572"/>
 </technology>
 </technologies>
 </device>
@@ -1148,6 +1186,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="12R7"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488630"/>
 </technology>
 </technologies>
 </device>
@@ -1174,6 +1213,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="127R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488635"/>
 </technology>
 </technologies>
 </device>
@@ -1200,6 +1240,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1K27"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488570"/>
 </technology>
 </technologies>
 </device>
@@ -1226,6 +1267,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="12K7"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274058"/>
 </technology>
 </technologies>
 </device>
@@ -1252,6 +1294,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="127K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488634"/>
 </technology>
 </technologies>
 </device>
@@ -1278,6 +1321,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1M27"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488571"/>
 </technology>
 </technologies>
 </device>
@@ -1304,6 +1348,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1R33"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488575"/>
 </technology>
 </technologies>
 </device>
@@ -1330,6 +1375,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="13R3"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488636"/>
 </technology>
 </technologies>
 </device>
@@ -1356,6 +1402,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="133R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274074"/>
 </technology>
 </technologies>
 </device>
@@ -1382,6 +1429,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1K33"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488573"/>
 </technology>
 </technologies>
 </device>
@@ -1408,6 +1456,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="13K3"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274087"/>
 </technology>
 </technologies>
 </device>
@@ -1434,6 +1483,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="133K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C163386"/>
 </technology>
 </technologies>
 </device>
@@ -1460,6 +1510,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1M33"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488574"/>
 </technology>
 </technologies>
 </device>
@@ -1486,6 +1537,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1R4"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C309574"/>
 </technology>
 </technologies>
 </device>
@@ -1512,6 +1564,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="14R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488654"/>
 </technology>
 </technologies>
 </device>
@@ -1538,6 +1591,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="140R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137389"/>
 </technology>
 </technologies>
 </device>
@@ -1564,6 +1618,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1K4"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137375"/>
 </technology>
 </technologies>
 </device>
@@ -1590,6 +1645,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="14K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274085"/>
 </technology>
 </technologies>
 </device>
@@ -1616,6 +1672,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="140K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488650"/>
 </technology>
 </technologies>
 </device>
@@ -1642,6 +1699,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1M4"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488582"/>
 </technology>
 </technologies>
 </device>
@@ -1668,6 +1726,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1R47"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488581"/>
 </technology>
 </technologies>
 </device>
@@ -1694,6 +1753,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="14R7"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488649"/>
 </technology>
 </technologies>
 </device>
@@ -1720,6 +1780,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="147R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488653"/>
 </technology>
 </technologies>
 </device>
@@ -1746,6 +1807,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1K47"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274083"/>
 </technology>
 </technologies>
 </device>
@@ -1772,6 +1834,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="14K7"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488648"/>
 </technology>
 </technologies>
 </device>
@@ -1798,6 +1861,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="147K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488652"/>
 </technology>
 </technologies>
 </device>
@@ -1824,6 +1888,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1M47"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274916"/>
 </technology>
 </technologies>
 </device>
@@ -1850,6 +1915,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1R54"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488584"/>
 </technology>
 </technologies>
 </device>
@@ -1876,6 +1942,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="15R4"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274035"/>
 </technology>
 </technologies>
 </device>
@@ -1902,6 +1969,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="154R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274043"/>
 </technology>
 </technologies>
 </device>
@@ -1928,6 +1996,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1K54"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488583"/>
 </technology>
 </technologies>
 </device>
@@ -1954,6 +2023,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="15K4"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488655"/>
 </technology>
 </technologies>
 </device>
@@ -1980,6 +2050,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="154K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488658"/>
 </technology>
 </technologies>
 </device>
@@ -2006,6 +2077,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1M54"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C326915"/>
 </technology>
 </technologies>
 </device>
@@ -2032,6 +2104,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1R62"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137359"/>
 </technology>
 </technologies>
 </device>
@@ -2058,6 +2131,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="16R2"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488662"/>
 </technology>
 </technologies>
 </device>
@@ -2084,6 +2158,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="162R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488666"/>
 </technology>
 </technologies>
 </device>
@@ -2110,6 +2185,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1K62"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488586"/>
 </technology>
 </technologies>
 </device>
@@ -2136,6 +2212,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="16K2"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488661"/>
 </technology>
 </technologies>
 </device>
@@ -2162,6 +2239,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="162K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488665"/>
 </technology>
 </technologies>
 </device>
@@ -2188,6 +2266,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1M62"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488587"/>
 </technology>
 </technologies>
 </device>
@@ -2214,6 +2293,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1R69"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488592"/>
 </technology>
 </technologies>
 </device>
@@ -2240,6 +2320,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="16R9"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488664"/>
 </technology>
 </technologies>
 </device>
@@ -2266,6 +2347,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="169R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488669"/>
 </technology>
 </technologies>
 </device>
@@ -2292,6 +2374,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1K69"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274077"/>
 </technology>
 </technologies>
 </device>
@@ -2318,6 +2401,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="16K9"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137384"/>
 </technology>
 </technologies>
 </device>
@@ -2344,6 +2428,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="169K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488668"/>
 </technology>
 </technologies>
 </device>
@@ -2370,6 +2455,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1M69"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488591"/>
 </technology>
 </technologies>
 </device>
@@ -2396,6 +2482,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1R78"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488597"/>
 </technology>
 </technologies>
 </device>
@@ -2422,6 +2509,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="17R8"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488673"/>
 </technology>
 </technologies>
 </device>
@@ -2448,6 +2536,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="178R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488675"/>
 </technology>
 </technologies>
 </device>
@@ -2474,6 +2563,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1K78"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488595"/>
 </technology>
 </technologies>
 </device>
@@ -2500,6 +2590,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="17K8"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488672"/>
 </technology>
 </technologies>
 </device>
@@ -2526,6 +2617,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="178K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488674"/>
 </technology>
 </technologies>
 </device>
@@ -2552,6 +2644,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1M78"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488596"/>
 </technology>
 </technologies>
 </device>
@@ -2578,6 +2671,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1R87"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488602"/>
 </technology>
 </technologies>
 </device>
@@ -2604,6 +2698,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="18R7"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274069"/>
 </technology>
 </technologies>
 </device>
@@ -2630,6 +2725,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="187R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488679"/>
 </technology>
 </technologies>
 </device>
@@ -2656,6 +2752,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1K87"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488600"/>
 </technology>
 </technologies>
 </device>
@@ -2682,6 +2779,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="18K7"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274034"/>
 </technology>
 </technologies>
 </device>
@@ -2708,6 +2806,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="187K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488678"/>
 </technology>
 </technologies>
 </device>
@@ -2734,6 +2833,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1M87"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488601"/>
 </technology>
 </technologies>
 </device>
@@ -2760,6 +2860,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1R96"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488608"/>
 </technology>
 </technologies>
 </device>
@@ -2786,6 +2887,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="19R6"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488684"/>
 </technology>
 </technologies>
 </device>
@@ -2812,6 +2914,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="196R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488688"/>
 </technology>
 </technologies>
 </device>
@@ -2838,6 +2941,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1K96"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137371"/>
 </technology>
 </technologies>
 </device>
@@ -2864,6 +2968,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="19K6"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488683"/>
 </technology>
 </technologies>
 </device>
@@ -2890,6 +2995,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="196K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488687"/>
 </technology>
 </technologies>
 </device>
@@ -2916,6 +3022,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="1M96"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488607"/>
 </technology>
 </technologies>
 </device>
@@ -2968,6 +3075,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="20R5"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488728"/>
 </technology>
 </technologies>
 </device>
@@ -2994,6 +3102,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="205R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137354"/>
 </technology>
 </technologies>
 </device>
@@ -3046,6 +3155,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="20K5"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488727"/>
 </technology>
 </technologies>
 </device>
@@ -3072,6 +3182,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="205K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488729"/>
 </technology>
 </technologies>
 </device>
@@ -3124,6 +3235,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="2R15"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488693"/>
 </technology>
 </technologies>
 </device>
@@ -3150,6 +3262,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="21R5"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274062"/>
 </technology>
 </technologies>
 </device>
@@ -3176,6 +3289,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="215R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488734"/>
 </technology>
 </technologies>
 </device>
@@ -3202,6 +3316,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="2K15"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488691"/>
 </technology>
 </technologies>
 </device>
@@ -3228,6 +3343,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="21K5"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488731"/>
 </technology>
 </technologies>
 </device>
@@ -3254,6 +3370,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="215K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C159832"/>
 </technology>
 </technologies>
 </device>
@@ -3280,6 +3397,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="2M15"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488692"/>
 </technology>
 </technologies>
 </device>
@@ -3306,6 +3424,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="2R26"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488700"/>
 </technology>
 </technologies>
 </device>
@@ -3332,6 +3451,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="22R6"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488740"/>
 </technology>
 </technologies>
 </device>
@@ -3358,6 +3478,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="226R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488741"/>
 </technology>
 </technologies>
 </device>
@@ -3384,6 +3505,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="2K26"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488698"/>
 </technology>
 </technologies>
 </device>
@@ -3410,6 +3532,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="22K6"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488739"/>
 </technology>
 </technologies>
 </device>
@@ -3436,6 +3559,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="226K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274075"/>
 </technology>
 </technologies>
 </device>
@@ -3462,6 +3586,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="2M26"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488699"/>
 </technology>
 </technologies>
 </device>
@@ -3488,6 +3613,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="2R37"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488704"/>
 </technology>
 </technologies>
 </device>
@@ -3514,6 +3640,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="23R7"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488745"/>
 </technology>
 </technologies>
 </device>
@@ -3540,6 +3667,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="237R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274070"/>
 </technology>
 </technologies>
 </device>
@@ -3566,6 +3694,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="2K37"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137334"/>
 </technology>
 </technologies>
 </device>
@@ -3592,6 +3721,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="23K7"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488744"/>
 </technology>
 </technologies>
 </device>
@@ -3618,6 +3748,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="237K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488747"/>
 </technology>
 </technologies>
 </device>
@@ -3644,6 +3775,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="2M37"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488703"/>
 </technology>
 </technologies>
 </device>
@@ -3670,6 +3802,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="2R49"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137326"/>
 </technology>
 </technologies>
 </device>
@@ -3696,6 +3829,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="24R9"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C163383"/>
 </technology>
 </technologies>
 </device>
@@ -3722,6 +3856,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="249R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488750"/>
 </technology>
 </technologies>
 </device>
@@ -3748,6 +3883,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="2K49"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137332"/>
 </technology>
 </technologies>
 </device>
@@ -3774,6 +3910,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="24K9"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137348"/>
 </technology>
 </technologies>
 </device>
@@ -3800,6 +3937,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="249K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137349"/>
 </technology>
 </technologies>
 </device>
@@ -3826,6 +3964,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="2M49"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488707"/>
 </technology>
 </technologies>
 </device>
@@ -3852,6 +3991,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="2R61"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488713"/>
 </technology>
 </technologies>
 </device>
@@ -3878,6 +4018,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="26R1"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488755"/>
 </technology>
 </technologies>
 </device>
@@ -3904,6 +4045,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="261R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137345"/>
 </technology>
 </technologies>
 </device>
@@ -3930,6 +4072,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="2K61"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488711"/>
 </technology>
 </technologies>
 </device>
@@ -3956,6 +4099,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="26K1"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488754"/>
 </technology>
 </technologies>
 </device>
@@ -3982,6 +4126,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="261K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488758"/>
 </technology>
 </technologies>
 </device>
@@ -4008,6 +4153,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="2M61"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488712"/>
 </technology>
 </technologies>
 </device>
@@ -4034,6 +4180,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="2R74"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488719"/>
 </technology>
 </technologies>
 </device>
@@ -4060,6 +4207,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="27R4"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274044"/>
 </technology>
 </technologies>
 </device>
@@ -4086,6 +4234,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="274R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274027"/>
 </technology>
 </technologies>
 </device>
@@ -4112,6 +4261,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="2K74"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488717"/>
 </technology>
 </technologies>
 </device>
@@ -4138,6 +4288,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="27K4"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488759"/>
 </technology>
 </technologies>
 </device>
@@ -4164,6 +4315,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="274K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488760"/>
 </technology>
 </technologies>
 </device>
@@ -4190,6 +4342,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="2M74"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488718"/>
 </technology>
 </technologies>
 </device>
@@ -4216,6 +4369,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="2R87"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137324"/>
 </technology>
 </technologies>
 </device>
@@ -4242,6 +4396,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="28R7"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488762"/>
 </technology>
 </technologies>
 </device>
@@ -4268,6 +4423,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="287R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488764"/>
 </technology>
 </technologies>
 </device>
@@ -4294,6 +4450,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="2K87"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488720"/>
 </technology>
 </technologies>
 </device>
@@ -4320,6 +4477,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="28K7"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274056"/>
 </technology>
 </technologies>
 </device>
@@ -4346,6 +4504,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="287K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274059"/>
 </technology>
 </technologies>
 </device>
@@ -4372,6 +4531,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="2M87"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488721"/>
 </technology>
 </technologies>
 </device>
@@ -4424,6 +4584,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="30R1"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274028"/>
 </technology>
 </technologies>
 </device>
@@ -4450,6 +4611,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="301R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C163379"/>
 </technology>
 </technologies>
 </device>
@@ -4502,6 +4664,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="30K1"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274029"/>
 </technology>
 </technologies>
 </device>
@@ -4528,6 +4691,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="301K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488795"/>
 </technology>
 </technologies>
 </device>
@@ -4580,6 +4744,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="3R16"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488774"/>
 </technology>
 </technologies>
 </device>
@@ -4606,6 +4771,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="31R6"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488799"/>
 </technology>
 </technologies>
 </device>
@@ -4632,6 +4798,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="316R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274100"/>
 </technology>
 </technologies>
 </device>
@@ -4658,6 +4825,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="3K16"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137294"/>
 </technology>
 </technologies>
 </device>
@@ -4684,6 +4852,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="31K6"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488798"/>
 </technology>
 </technologies>
 </device>
@@ -4710,6 +4879,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="316K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274060"/>
 </technology>
 </technologies>
 </device>
@@ -4736,6 +4906,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="3M16"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488773"/>
 </technology>
 </technologies>
 </device>
@@ -4762,6 +4933,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="3R32"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137284"/>
 </technology>
 </technologies>
 </device>
@@ -4788,6 +4960,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="33R2"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274016"/>
 </technology>
 </technologies>
 </device>
@@ -4814,6 +4987,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="332R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488804"/>
 </technology>
 </technologies>
 </device>
@@ -4840,6 +5014,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="3K32"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137293"/>
 </technology>
 </technologies>
 </device>
@@ -4866,6 +5041,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="33K2"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137310"/>
 </technology>
 </technologies>
 </device>
@@ -4892,6 +5068,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="332K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137311"/>
 </technology>
 </technologies>
 </device>
@@ -4918,6 +5095,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="3M32"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C309579"/>
 </technology>
 </technologies>
 </device>
@@ -4944,6 +5122,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="3R48"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C470028"/>
 </technology>
 </technologies>
 </device>
@@ -4970,6 +5149,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="34R8"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488806"/>
 </technology>
 </technologies>
 </device>
@@ -4996,6 +5176,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="348R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488808"/>
 </technology>
 </technologies>
 </device>
@@ -5022,6 +5203,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="3K48"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C309578"/>
 </technology>
 </technologies>
 </device>
@@ -5048,6 +5230,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="34K8"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274050"/>
 </technology>
 </technologies>
 </device>
@@ -5074,6 +5257,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="348K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274090"/>
 </technology>
 </technologies>
 </device>
@@ -5100,6 +5284,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="3M48"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488778"/>
 </technology>
 </technologies>
 </device>
@@ -5126,6 +5311,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="3R65"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488784"/>
 </technology>
 </technologies>
 </device>
@@ -5152,6 +5338,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="36R5"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488813"/>
 </technology>
 </technologies>
 </device>
@@ -5178,6 +5365,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="365R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274073"/>
 </technology>
 </technologies>
 </device>
@@ -5204,6 +5392,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="3K65"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274037"/>
 </technology>
 </technologies>
 </device>
@@ -5230,6 +5419,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="36K5"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488812"/>
 </technology>
 </technologies>
 </device>
@@ -5256,6 +5446,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="365K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488814"/>
 </technology>
 </technologies>
 </device>
@@ -5282,6 +5473,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="3M65"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488783"/>
 </technology>
 </technologies>
 </device>
@@ -5308,6 +5500,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="3R83"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488790"/>
 </technology>
 </technologies>
 </device>
@@ -5334,6 +5527,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="38R3"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488816"/>
 </technology>
 </technologies>
 </device>
@@ -5360,6 +5554,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="383R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488818"/>
 </technology>
 </technologies>
 </device>
@@ -5386,6 +5581,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="3K83"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488788"/>
 </technology>
 </technologies>
 </device>
@@ -5412,6 +5608,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="38K3"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137299"/>
 </technology>
 </technologies>
 </device>
@@ -5438,6 +5635,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="383K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488817"/>
 </technology>
 </technologies>
 </device>
@@ -5464,6 +5662,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="3M83"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488789"/>
 </technology>
 </technologies>
 </device>
@@ -5516,6 +5715,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="40R2"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274040"/>
 </technology>
 </technologies>
 </device>
@@ -5542,6 +5742,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="402R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274025"/>
 </technology>
 </technologies>
 </device>
@@ -5594,6 +5795,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="40K2"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137278"/>
 </technology>
 </technologies>
 </device>
@@ -5620,6 +5822,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="402K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C77784"/>
 </technology>
 </technologies>
 </device>
@@ -5672,6 +5875,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="4R22"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488828"/>
 </technology>
 </technologies>
 </device>
@@ -5698,6 +5902,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="42R2"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274057"/>
 </technology>
 </technologies>
 </device>
@@ -5724,6 +5929,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="422R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137276"/>
 </technology>
 </technologies>
 </device>
@@ -5750,6 +5956,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="4K22"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488826"/>
 </technology>
 </technologies>
 </device>
@@ -5776,6 +5983,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="42K2"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488848"/>
 </technology>
 </technologies>
 </device>
@@ -5802,6 +6010,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="422K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488849"/>
 </technology>
 </technologies>
 </device>
@@ -5828,6 +6037,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="4M22"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488827"/>
 </technology>
 </technologies>
 </device>
@@ -5854,6 +6064,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="4R42"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488834"/>
 </technology>
 </technologies>
 </device>
@@ -5880,6 +6091,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="44R2"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488855"/>
 </technology>
 </technologies>
 </device>
@@ -5906,6 +6118,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="442R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C354256"/>
 </technology>
 </technologies>
 </device>
@@ -5932,6 +6145,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="4K42"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488832"/>
 </technology>
 </technologies>
 </device>
@@ -5958,6 +6172,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="44K2"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488854"/>
 </technology>
 </technologies>
 </device>
@@ -5984,6 +6199,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="442K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488856"/>
 </technology>
 </technologies>
 </device>
@@ -6010,6 +6226,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="4M42"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488833"/>
 </technology>
 </technologies>
 </device>
@@ -6036,6 +6253,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="4R64"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488839"/>
 </technology>
 </technologies>
 </device>
@@ -6062,6 +6280,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="46R4"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274064"/>
 </technology>
 </technologies>
 </device>
@@ -6088,6 +6307,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="464R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488859"/>
 </technology>
 </technologies>
 </device>
@@ -6114,6 +6334,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="4K64"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488837"/>
 </technology>
 </technologies>
 </device>
@@ -6140,6 +6361,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="46K4"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274078"/>
 </technology>
 </technologies>
 </device>
@@ -6166,6 +6388,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="464K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488858"/>
 </technology>
 </technologies>
 </device>
@@ -6192,6 +6415,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="4M64"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488838"/>
 </technology>
 </technologies>
 </device>
@@ -6218,6 +6442,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="4R87"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488844"/>
 </technology>
 </technologies>
 </device>
@@ -6244,6 +6469,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="48R7"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488862"/>
 </technology>
 </technologies>
 </device>
@@ -6270,6 +6496,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="487R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488864"/>
 </technology>
 </technologies>
 </device>
@@ -6296,6 +6523,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="4K87"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488842"/>
 </technology>
 </technologies>
 </device>
@@ -6322,6 +6550,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="48K7"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488861"/>
 </technology>
 </technologies>
 </device>
@@ -6348,6 +6577,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="487K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488863"/>
 </technology>
 </technologies>
 </device>
@@ -6374,6 +6604,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="4M87"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488843"/>
 </technology>
 </technologies>
 </device>
@@ -6400,6 +6631,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="5R11"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488867"/>
 </technology>
 </technologies>
 </device>
@@ -6426,6 +6658,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="51R1"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274079"/>
 </technology>
 </technologies>
 </device>
@@ -6452,6 +6685,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="511R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274036"/>
 </technology>
 </technologies>
 </device>
@@ -6478,6 +6712,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="5K11"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137249"/>
 </technology>
 </technologies>
 </device>
@@ -6504,6 +6739,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="51K1"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488886"/>
 </technology>
 </technologies>
 </device>
@@ -6530,6 +6766,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="511K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488887"/>
 </technology>
 </technologies>
 </device>
@@ -6556,6 +6793,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="5M11"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488866"/>
 </technology>
 </technologies>
 </device>
@@ -6582,6 +6820,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="5R36"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488873"/>
 </technology>
 </technologies>
 </device>
@@ -6608,6 +6847,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="53R6"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488893"/>
 </technology>
 </technologies>
 </device>
@@ -6634,6 +6874,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="536R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488895"/>
 </technology>
 </technologies>
 </device>
@@ -6660,6 +6901,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="5K36"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488871"/>
 </technology>
 </technologies>
 </device>
@@ -6686,6 +6928,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="53K6"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488892"/>
 </technology>
 </technologies>
 </device>
@@ -6712,6 +6955,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="536K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488894"/>
 </technology>
 </technologies>
 </device>
@@ -6738,6 +6982,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="5M36"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488872"/>
 </technology>
 </technologies>
 </device>
@@ -6764,6 +7009,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="5R62"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488879"/>
 </technology>
 </technologies>
 </device>
@@ -6790,6 +7036,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="56R2"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274096"/>
 </technology>
 </technologies>
 </device>
@@ -6816,6 +7063,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="562R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137253"/>
 </technology>
 </technologies>
 </device>
@@ -6842,6 +7090,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="5K62"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488877"/>
 </technology>
 </technologies>
 </device>
@@ -6868,6 +7117,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="56K2"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137252"/>
 </technology>
 </technologies>
 </device>
@@ -6894,6 +7144,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="562K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488900"/>
 </technology>
 </technologies>
 </device>
@@ -6920,6 +7171,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="5M62"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488878"/>
 </technology>
 </technologies>
 </device>
@@ -6946,6 +7198,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="5R9"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488885"/>
 </technology>
 </technologies>
 </device>
@@ -6972,6 +7225,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="59R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488907"/>
 </technology>
 </technologies>
 </device>
@@ -6998,6 +7252,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="590R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137250"/>
 </technology>
 </technologies>
 </device>
@@ -7024,6 +7279,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="5K9"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488883"/>
 </technology>
 </technologies>
 </device>
@@ -7050,6 +7306,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="59K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274097"/>
 </technology>
 </technologies>
 </device>
@@ -7076,6 +7333,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="590K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488906"/>
 </technology>
 </technologies>
 </device>
@@ -7102,6 +7360,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="5M9"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488884"/>
 </technology>
 </technologies>
 </device>
@@ -7128,6 +7387,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="6R19"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488913"/>
 </technology>
 </technologies>
 </device>
@@ -7154,6 +7414,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="61R9"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488927"/>
 </technology>
 </technologies>
 </device>
@@ -7180,6 +7441,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="619R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488929"/>
 </technology>
 </technologies>
 </device>
@@ -7206,6 +7468,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="6K19"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488911"/>
 </technology>
 </technologies>
 </device>
@@ -7232,6 +7495,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="61K9"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137245"/>
 </technology>
 </technologies>
 </device>
@@ -7258,6 +7522,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="619K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488928"/>
 </technology>
 </technologies>
 </device>
@@ -7284,6 +7549,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="6M19"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488912"/>
 </technology>
 </technologies>
 </device>
@@ -7310,6 +7576,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="6R49"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488919"/>
 </technology>
 </technologies>
 </device>
@@ -7336,6 +7603,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="64R9"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C22183"/>
 </technology>
 </technologies>
 </device>
@@ -7362,6 +7630,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="649R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137242"/>
 </technology>
 </technologies>
 </device>
@@ -7388,6 +7657,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="6K49"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488918"/>
 </technology>
 </technologies>
 </device>
@@ -7414,6 +7684,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="64K9"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274045"/>
 </technology>
 </technologies>
 </device>
@@ -7440,6 +7711,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="649K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488934"/>
 </technology>
 </technologies>
 </device>
@@ -7466,6 +7738,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="6M49"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137236"/>
 </technology>
 </technologies>
 </device>
@@ -7492,6 +7765,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="6R81"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488923"/>
 </technology>
 </technologies>
 </device>
@@ -7518,6 +7792,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="68R1"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488939"/>
 </technology>
 </technologies>
 </device>
@@ -7544,6 +7819,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="681R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488940"/>
 </technology>
 </technologies>
 </device>
@@ -7570,6 +7846,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="6K81"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274019"/>
 </technology>
 </technologies>
 </device>
@@ -7596,6 +7873,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="68K1"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488938"/>
 </technology>
 </technologies>
 </device>
@@ -7622,6 +7900,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="681K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274080"/>
 </technology>
 </technologies>
 </device>
@@ -7648,6 +7927,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="6M81"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488922"/>
 </technology>
 </technologies>
 </device>
@@ -7674,6 +7954,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="7R15"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488945"/>
 </technology>
 </technologies>
 </device>
@@ -7700,6 +7981,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="71R5"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274049"/>
 </technology>
 </technologies>
 </device>
@@ -7726,6 +8008,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="715R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488957"/>
 </technology>
 </technologies>
 </device>
@@ -7752,6 +8035,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="7K15"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274052"/>
 </technology>
 </technologies>
 </device>
@@ -7778,6 +8062,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="71K5"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488956"/>
 </technology>
 </technologies>
 </device>
@@ -7804,6 +8089,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="715K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274021"/>
 </technology>
 </technologies>
 </device>
@@ -7830,6 +8116,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="7M15"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488944"/>
 </technology>
 </technologies>
 </device>
@@ -7856,6 +8143,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="7R5"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488949"/>
 </technology>
 </technologies>
 </device>
@@ -7882,6 +8170,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="75R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137233"/>
 </technology>
 </technologies>
 </device>
@@ -7908,6 +8197,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="750R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C185259"/>
 </technology>
 </technologies>
 </device>
@@ -7934,6 +8224,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="7K5"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137232"/>
 </technology>
 </technologies>
 </device>
@@ -7960,6 +8251,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="75K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137234"/>
 </technology>
 </technologies>
 </device>
@@ -7986,6 +8278,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="750K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137235"/>
 </technology>
 </technologies>
 </device>
@@ -8012,6 +8305,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="7M5"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C246056"/>
 </technology>
 </technologies>
 </device>
@@ -8038,6 +8332,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="7R87"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488955"/>
 </technology>
 </technologies>
 </device>
@@ -8064,6 +8359,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="78R7"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C326924"/>
 </technology>
 </technologies>
 </device>
@@ -8090,6 +8386,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="787R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274065"/>
 </technology>
 </technologies>
 </device>
@@ -8116,6 +8413,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="7K87"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488953"/>
 </technology>
 </technologies>
 </device>
@@ -8142,6 +8440,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="78K7"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274081"/>
 </technology>
 </technologies>
 </device>
@@ -8168,6 +8467,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="787K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488967"/>
 </technology>
 </technologies>
 </device>
@@ -8194,6 +8494,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="7M87"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488954"/>
 </technology>
 </technologies>
 </device>
@@ -8220,6 +8521,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="8R25"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488971"/>
 </technology>
 </technologies>
 </device>
@@ -8246,6 +8548,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="82R5"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488986"/>
 </technology>
 </technologies>
 </device>
@@ -8272,6 +8575,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="825R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137230"/>
 </technology>
 </technologies>
 </device>
@@ -8298,6 +8602,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="8K25"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274066"/>
 </technology>
 </technologies>
 </device>
@@ -8324,6 +8629,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="82K5"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488985"/>
 </technology>
 </technologies>
 </device>
@@ -8350,6 +8656,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="825K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488987"/>
 </technology>
 </technologies>
 </device>
@@ -8376,6 +8683,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="8M25"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488970"/>
 </technology>
 </technologies>
 </device>
@@ -8402,6 +8710,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="8R66"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488978"/>
 </technology>
 </technologies>
 </device>
@@ -8428,6 +8737,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="86R6"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488993"/>
 </technology>
 </technologies>
 </device>
@@ -8454,6 +8764,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="866R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274042"/>
 </technology>
 </technologies>
 </device>
@@ -8480,6 +8791,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="8K66"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488976"/>
 </technology>
 </technologies>
 </device>
@@ -8506,6 +8818,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="86K6"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488992"/>
 </technology>
 </technologies>
 </device>
@@ -8532,6 +8845,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="866K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488994"/>
 </technology>
 </technologies>
 </device>
@@ -8558,6 +8872,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="8M66"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C488977"/>
 </technology>
 </technologies>
 </device>
@@ -8610,6 +8925,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="90R9"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C489012"/>
 </technology>
 </technologies>
 </device>
@@ -8636,6 +8952,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="909R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C489014"/>
 </technology>
 </technologies>
 </device>
@@ -8688,6 +9005,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="90K9"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137225"/>
 </technology>
 </technologies>
 </device>
@@ -8714,6 +9032,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="909K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C489013"/>
 </technology>
 </technologies>
 </device>
@@ -8766,6 +9085,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="9R53"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C489008"/>
 </technology>
 </technologies>
 </device>
@@ -8792,6 +9112,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="95R3"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C489019"/>
 </technology>
 </technologies>
 </device>
@@ -8818,6 +9139,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="953R"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C137222"/>
 </technology>
 </technologies>
 </device>
@@ -8844,6 +9166,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="9K53"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C489006"/>
 </technology>
 </technologies>
 </device>
@@ -8870,6 +9193,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="95K3"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C274048"/>
 </technology>
 </technologies>
 </device>
@@ -8896,6 +9220,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="953K"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C489020"/>
 </technology>
 </technologies>
 </device>
@@ -8922,6 +9247,7 @@
 <attribute name="TOLERANCE" value="1%"/>
 <attribute name="VALUE" value="9M53"/>
 <attribute name="VOLTAGE" value="200V" constant="no"/>
+<attribute name="LCSC" value="C489007"/>
 </technology>
 </technologies>
 </device>

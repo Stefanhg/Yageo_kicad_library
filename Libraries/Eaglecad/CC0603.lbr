@@ -126,6 +126,7 @@
 <attribute name="TOL" value="5%"/>
 <attribute name="VALUE" value="100pF"/>
 <attribute name="VOLTAGE" value="50V" constant="no"/>
+<attribute name="LCSC" value="C14665"/>
 </technology>
 </technologies>
 </device>
@@ -149,6 +150,7 @@
 <attribute name="TOL" value="5%"/>
 <attribute name="VALUE" value="150pF"/>
 <attribute name="VOLTAGE" value="50V" constant="no"/>
+<attribute name="LCSC" value="C107038"/>
 </technology>
 </technologies>
 </device>
@@ -172,6 +174,7 @@
 <attribute name="TOL" value="5%"/>
 <attribute name="VALUE" value="220pF"/>
 <attribute name="VOLTAGE" value="50V" constant="no"/>
+<attribute name="LCSC" value="C106210"/>
 </technology>
 </technologies>
 </device>
@@ -195,6 +198,7 @@
 <attribute name="TOL" value="5%"/>
 <attribute name="VALUE" value="330pF"/>
 <attribute name="VOLTAGE" value="50V" constant="no"/>
+<attribute name="LCSC" value="C62784"/>
 </technology>
 </technologies>
 </device>
@@ -218,6 +222,7 @@
 <attribute name="TOL" value="5%"/>
 <attribute name="VALUE" value="470pF"/>
 <attribute name="VOLTAGE" value="50V" constant="no"/>
+<attribute name="LCSC" value="C106211"/>
 </technology>
 </technologies>
 </device>
@@ -241,6 +246,7 @@
 <attribute name="TOL" value="5%"/>
 <attribute name="VALUE" value="680pF"/>
 <attribute name="VOLTAGE" value="50V" constant="no"/>
+<attribute name="LCSC" value="C107055"/>
 </technology>
 </technologies>
 </device>
@@ -264,6 +270,7 @@
 <attribute name="TOL" value="5%"/>
 <attribute name="VALUE" value="1nF"/>
 <attribute name="VOLTAGE" value="50V" constant="no"/>
+<attribute name="LCSC" value="C106246"/>
 </technology>
 </technologies>
 </device>
@@ -287,6 +294,7 @@
 <attribute name="TOL" value="5%"/>
 <attribute name="VALUE" value="1.5nF"/>
 <attribute name="VOLTAGE" value="50V" constant="no"/>
+<attribute name="LCSC" value="C107039"/>
 </technology>
 </technologies>
 </device>
@@ -310,6 +318,7 @@
 <attribute name="TOL" value="5%"/>
 <attribute name="VALUE" value="2.2nF"/>
 <attribute name="VOLTAGE" value="50V" constant="no"/>
+<attribute name="LCSC" value="C107043"/>
 </technology>
 </technologies>
 </device>
@@ -333,6 +342,7 @@
 <attribute name="TOL" value="5%"/>
 <attribute name="VALUE" value="3.3nF"/>
 <attribute name="VOLTAGE" value="50V" constant="no"/>
+<attribute name="LCSC" value="C107048"/>
 </technology>
 </technologies>
 </device>
@@ -379,6 +389,7 @@
 <attribute name="TOL" value="5%"/>
 <attribute name="VALUE" value="6.8nF"/>
 <attribute name="VOLTAGE" value="50V" constant="no"/>
+<attribute name="LCSC" value="C513559"/>
 </technology>
 </technologies>
 </device>
@@ -402,6 +413,7 @@
 <attribute name="TOL" value="5%"/>
 <attribute name="VALUE" value="10nF"/>
 <attribute name="VOLTAGE" value="50V" constant="no"/>
+<attribute name="LCSC" value="C389113"/>
 </technology>
 </technologies>
 </device>
@@ -609,6 +621,7 @@
 <attribute name="TOL" value="5%"/>
 <attribute name="VALUE" value="330nF"/>
 <attribute name="VOLTAGE" value="25V"/>
+<attribute name="LCSC" value="C519579"/>
 </technology>
 </technologies>
 </device>
@@ -655,6 +668,7 @@
 <attribute name="TOL" value="10%"/>
 <attribute name="VALUE" value="680nF"/>
 <attribute name="VOLTAGE" value="25V"/>
+<attribute name="LCSC" value="C327005"/>
 </technology>
 </technologies>
 </device>
@@ -701,6 +715,7 @@
 <attribute name="TOL" value="10%"/>
 <attribute name="VALUE" value="2.2uF"/>
 <attribute name="VOLTAGE" value="25V"/>
+<attribute name="LCSC" value="C309478"/>
 </technology>
 </technologies>
 </device>

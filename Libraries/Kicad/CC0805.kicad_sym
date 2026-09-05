@@ -411,6 +411,7 @@
 				)
 			)
 		)
+		(property "LCSC" "C107154" (at 0 -30.48 0) (hide yes) (effects (font (size 1.27 1.27))))
 		(property "Dielectric" "X7R"
 			(at 0 -17.145 0)
 			(show_name yes)
