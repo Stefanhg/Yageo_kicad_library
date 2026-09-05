@@ -1,2 +1,0 @@
-Remnember after Copying from _newLibParts.txt to RCXXXXFR.lbr in between <devicesets> and </devicesets> to open the library and do "Save AS" and save it somewher
-Eaglecad is stupid and doesn't understand it unless you do so even though the whole library is there when you open it

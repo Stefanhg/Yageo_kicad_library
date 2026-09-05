@@ -1,0 +1,411 @@
+{
+  "generator": {
+    "default_series": "CC0603",
+    "default_preset": "verified_baseline"
+  },
+  "defaults": {
+    "base_symbol": "CC_TEMPLATE",
+    "manufacturer": "Yageo",
+    "datasheet": "https://yageogroup.com/content/datasheet/asset/file/UPY-AC_NP0X7RX7S_6_3V-TO-2KV",
+    "description_template": "MLCC {value} {dielectric} {tolerance} {voltage}",
+    "footprint": "",
+    "ki_fp_filters": ""
+  },
+  "series": {
+    "CC0402": {
+      "package": "0402",
+      "footprint": "footprints:CC0402-CAPC1005X55N",
+      "ki_fp_filters": "*CAPC1005X55N*",
+      "datasheet": "https://yageogroup.com/content/datasheet/asset/file/UPY-AC_NP0X7RX7S_6_3V-TO-2KV"
+    },
+    "CC0603": {
+      "package": "0603",
+      "footprint": "footprints:CC0603-CAPC1608X90N",
+      "ki_fp_filters": "*CAPC1608X90N*",
+      "datasheet": "https://yageogroup.com/content/datasheet/asset/file/UPY-AC_NP0X7RX7S_6_3V-TO-2KV"
+    },
+    "CC0805": {
+      "package": "0805",
+      "footprint": "footprints:CC0805-CAPC2012X140N",
+      "ki_fp_filters": "*CAPC2012X140N*"
+    },
+    "CC1206": {
+      "package": "1206",
+      "footprint": "footprints:CC1206-CAPC3216X180N",
+      "ki_fp_filters": "*CAPC3216X180N*"
+    }
+  },
+  "presets": {
+    "core_decoupling": [
+      "100n",
+      "1u",
+      "2u2",
+      "4u7",
+      "10u"
+    ],
+    "general_x7r": [
+      "100p",
+      "1n",
+      "3n3",
+      "10n",
+      "47n",
+      "100n",
+      "220n",
+      "470n",
+      "1u"
+    ],
+    "verified_baseline": [
+      "100p",
+      "1n",
+      "3n3",
+      "10n",
+      "47n",
+      "100n",
+      "220n",
+      "470n",
+      "1u",
+      "2u2",
+      "4u7"
+    ]
+  },
+  "parts": {
+    "CC0402": [
+      {
+        "value": "100p",
+        "cap_code": "101",
+        "mpn": "CC0402JRNPO9BN101",
+        "candidate_mpn": "",
+        "dielectric": "C0G",
+        "tolerance": "5%",
+        "voltage": "50V",
+        "verification": "repo_observed"
+      },
+      {
+        "value": "1n",
+        "cap_code": "102",
+        "mpn": "CC0402JRX7R8BB102",
+        "candidate_mpn": "",
+        "dielectric": "X7R",
+        "tolerance": "5%",
+        "voltage": "25V",
+        "verification": "repo_observed"
+      },
+      {
+        "value": "3n3",
+        "cap_code": "332",
+        "mpn": "CC0402KRX7R8BB332",
+        "candidate_mpn": "",
+        "dielectric": "X7R",
+        "tolerance": "10%",
+        "voltage": "25V",
+        "verification": "repo_observed"
+      },
+      {
+        "value": "10n",
+        "cap_code": "103",
+        "mpn": "CC0402JRX7R8BB103",
+        "candidate_mpn": "",
+        "dielectric": "X7R",
+        "tolerance": "5%",
+        "voltage": "25V",
+        "verification": "repo_observed"
+      },
+      {
+        "value": "47n",
+        "cap_code": "473",
+        "mpn": "CC0402KRX7R8BB473",
+        "candidate_mpn": "",
+        "dielectric": "X7R",
+        "tolerance": "10%",
+        "voltage": "25V",
+        "verification": "repo_observed"
+      },
+      {
+        "value": "100n",
+        "cap_code": "104",
+        "mpn": "CC0402JRX7R8BB104",
+        "candidate_mpn": "",
+        "dielectric": "X7R",
+        "tolerance": "5%",
+        "voltage": "25V",
+        "verification": "repo_observed"
+      },
+      {
+        "value": "220n",
+        "cap_code": "224",
+        "mpn": "CC0402KRX7R8BB224",
+        "candidate_mpn": "",
+        "dielectric": "X7R",
+        "tolerance": "10%",
+        "voltage": "25V",
+        "verification": "repo_observed"
+      },
+      {
+        "value": "1u",
+        "cap_code": "105",
+        "mpn": "CC0402KRX7R5BB105",
+        "candidate_mpn": "",
+        "dielectric": "X7R",
+        "tolerance": "10%",
+        "voltage": "6.3V",
+        "verification": "skill_example"
+      },
+      {
+        "value": "2u2",
+        "cap_code": "225",
+        "mpn": "CC0402MRX5R5BB225",
+        "candidate_mpn": "",
+        "dielectric": "X5R",
+        "tolerance": "20%",
+        "voltage": "6.3V",
+        "verification": "repo_observed"
+      },
+      {
+        "value": "4u7",
+        "cap_code": "475",
+        "mpn": "CC0402MRX5R5BB475",
+        "candidate_mpn": "",
+        "dielectric": "X5R",
+        "tolerance": "20%",
+        "voltage": "6.3V",
+        "verification": "repo_observed"
+      }
+    ],
+    "CC0603": [
+      {
+        "value": "100p",
+        "cap_code": "101",
+        "mpn": "CC0603KRX7R9BB101",
+        "candidate_mpn": "",
+        "dielectric": "X7R",
+        "tolerance": "10%",
+        "voltage": "50V",
+        "verification": "repo_observed"
+      },
+      {
+        "value": "1n",
+        "cap_code": "102",
+        "mpn": "CC0603KRX7R9BB102",
+        "candidate_mpn": "",
+        "dielectric": "X7R",
+        "tolerance": "10%",
+        "voltage": "50V",
+        "verification": "repo_observed"
+      },
+      {
+        "value": "10n",
+        "cap_code": "103",
+        "mpn": "CC0603KRX7R9BB103",
+        "candidate_mpn": "",
+        "dielectric": "X7R",
+        "tolerance": "10%",
+        "voltage": "50V",
+        "verification": "repo_observed"
+      },
+      {
+        "value": "47n",
+        "cap_code": "473",
+        "mpn": "",
+        "candidate_mpn": "CC0603KRX7R9BB473",
+        "dielectric": "X7R",
+        "tolerance": "10%",
+        "voltage": "50V",
+        "verification": "policy_candidate"
+      },
+      {
+        "value": "100n",
+        "cap_code": "104",
+        "mpn": "CC0603KRX7R9BB104",
+        "candidate_mpn": "",
+        "dielectric": "X7R",
+        "tolerance": "10%",
+        "voltage": "50V",
+        "verification": "repo_observed"
+      },
+      {
+        "value": "220n",
+        "cap_code": "224",
+        "mpn": "",
+        "candidate_mpn": "CC0603KRX7R9BB224",
+        "dielectric": "X7R",
+        "tolerance": "10%",
+        "voltage": "50V",
+        "verification": "policy_candidate"
+      },
+      {
+        "value": "470n",
+        "cap_code": "474",
+        "mpn": "",
+        "candidate_mpn": "CC0603KRX7R9BB474",
+        "dielectric": "X7R",
+        "tolerance": "10%",
+        "voltage": "50V",
+        "verification": "policy_candidate"
+      },
+      {
+        "value": "1u",
+        "cap_code": "105",
+        "mpn": "CC0603KRX7R9BB105",
+        "candidate_mpn": "",
+        "dielectric": "X7R",
+        "tolerance": "10%",
+        "voltage": "50V",
+        "verification": "repo_observed"
+      },
+      {
+        "value": "2u2",
+        "cap_code": "225",
+        "mpn": "",
+        "candidate_mpn": "CC0603KRX5R9BB225",
+        "dielectric": "X5R",
+        "tolerance": "10%",
+        "voltage": "50V",
+        "verification": "policy_candidate"
+      },
+      {
+        "value": "4u7",
+        "cap_code": "475",
+        "mpn": "",
+        "candidate_mpn": "CC0603KRX5R8BB475",
+        "dielectric": "X5R",
+        "tolerance": "10%",
+        "voltage": "25V",
+        "verification": "policy_candidate"
+      },
+      {
+        "value": "10u",
+        "cap_code": "106",
+        "mpn": "",
+        "candidate_mpn": "CC0603KRX5R8BB106",
+        "dielectric": "X5R",
+        "tolerance": "10%",
+        "voltage": "25V",
+        "verification": "policy_candidate"
+      }
+    ],
+    "CC0805": [
+      {
+        "value": "47n",
+        "cap_code": "473",
+        "mpn": "CC0805KRX7R9BB473",
+        "candidate_mpn": "",
+        "dielectric": "X7R",
+        "tolerance": "10%",
+        "voltage": "50V",
+        "verification": "skill_example"
+      },
+      {
+        "value": "100n",
+        "cap_code": "104",
+        "mpn": "",
+        "candidate_mpn": "CC0805KRX7R9BB104",
+        "dielectric": "X7R",
+        "tolerance": "10%",
+        "voltage": "50V",
+        "verification": "policy_candidate"
+      },
+      {
+        "value": "1u",
+        "cap_code": "105",
+        "mpn": "",
+        "candidate_mpn": "CC0805KRX7R9BB105",
+        "dielectric": "X7R",
+        "tolerance": "10%",
+        "voltage": "50V",
+        "verification": "policy_candidate"
+      },
+      {
+        "value": "2u2",
+        "cap_code": "225",
+        "mpn": "",
+        "candidate_mpn": "CC0805KRX5R9BB225",
+        "dielectric": "X5R",
+        "tolerance": "10%",
+        "voltage": "50V",
+        "verification": "policy_candidate"
+      },
+      {
+        "value": "4u7",
+        "cap_code": "475",
+        "mpn": "",
+        "candidate_mpn": "CC0805KRX5R9BB475",
+        "dielectric": "X5R",
+        "tolerance": "10%",
+        "voltage": "50V",
+        "verification": "policy_candidate"
+      },
+      {
+        "value": "10u",
+        "cap_code": "106",
+        "mpn": "",
+        "candidate_mpn": "CC0805KRX5R9BB106",
+        "dielectric": "X5R",
+        "tolerance": "10%",
+        "voltage": "50V",
+        "verification": "policy_candidate"
+      }
+    ],
+    "CC1206": [
+      {
+        "value": "100n",
+        "cap_code": "104",
+        "mpn": "",
+        "candidate_mpn": "CC1206KRX7R9BB104",
+        "dielectric": "X7R",
+        "tolerance": "10%",
+        "voltage": "50V",
+        "verification": "policy_candidate"
+      },
+      {
+        "value": "1u",
+        "cap_code": "105",
+        "mpn": "",
+        "candidate_mpn": "CC1206KRX7R0BB105",
+        "dielectric": "X7R",
+        "tolerance": "10%",
+        "voltage": "100V",
+        "verification": "policy_candidate"
+      },
+      {
+        "value": "2u2",
+        "cap_code": "225",
+        "mpn": "",
+        "candidate_mpn": "CC1206KRX7R9BB225",
+        "dielectric": "X7R",
+        "tolerance": "10%",
+        "voltage": "50V",
+        "verification": "policy_candidate"
+      },
+      {
+        "value": "4u7",
+        "cap_code": "475",
+        "mpn": "",
+        "candidate_mpn": "CC1206KRX7R9BB475",
+        "dielectric": "X7R",
+        "tolerance": "10%",
+        "voltage": "50V",
+        "verification": "policy_candidate"
+      },
+      {
+        "value": "10u",
+        "cap_code": "106",
+        "mpn": "",
+        "candidate_mpn": "CC1206KRX5R9BB106",
+        "dielectric": "X5R",
+        "tolerance": "10%",
+        "voltage": "50V",
+        "verification": "policy_candidate"
+      },
+      {
+        "value": "22u",
+        "cap_code": "226",
+        "mpn": "",
+        "candidate_mpn": "CC1206KRX5R8BB226",
+        "dielectric": "X5R",
+        "tolerance": "10%",
+        "voltage": "25V",
+        "verification": "policy_candidate"
+      }
+    ]
+  }
+}

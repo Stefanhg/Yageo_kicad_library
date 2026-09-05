@@ -1,0 +1,76 @@
+{
+  "generator": {
+    "default_series": "RC0603FR",
+    "default_preset": "E24"
+  },
+  "defaults": {
+    "base_symbol": "RC0603",
+    "package": "0603",
+    "footprint": "footprints:RC0603FR-RESC1608X60N",
+    "datasheet": "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L",
+    "manufacturer": "Yageo",
+    "tolerance": "1%",
+    "voltage_rating": "75V",
+    "power_rating": "100mW",
+    "mpn_template": "{series}-{value_code}",
+    "description_template": "Resistor {value} {tolerance} {voltage_rating} {power_rating}",
+    "value_display_format": "decimal",
+    "min_ohms": 0,
+    "max_ohms": 10000000,
+    "default_preset": "E24"
+  },
+  "series": {
+    "RC0100FR": {
+      "package": "01005",
+      "min_ohms": 0,
+      "max_ohms": 10000000,
+      "default_preset": "E24"
+    },
+    "RC0201FR": {
+      "package": "0201",
+      "min_ohms": 0,
+      "max_ohms": 10000000,
+      "default_preset": "E24"
+    },
+    "RC0402FR": {
+      "package": "0402",
+      "min_ohms": 0,
+      "max_ohms": 10000000,
+      "default_preset": "E24"
+    },
+    "RC0603FR": {
+      "package": "0603",
+      "footprint": "footprints:RC0603FR-RESC1608X60N",
+      "datasheet": "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L",
+      "manufacturer": "Yageo",
+      "tolerance": "1%",
+      "voltage_rating": "75V",
+      "power_rating": "100mW",
+      "mpn_template": "RC0603FR-07{value_code}L",
+      "description_template": "Resistor {value} {tolerance} {voltage_rating} {power_rating}",
+      "min_ohms": 0,
+      "max_ohms": 10000000,
+      "default_preset": "E24"
+    },
+    "RC0805FR": {
+      "package": "0805",
+      "min_ohms": 0,
+      "max_ohms": 10000000,
+      "default_preset": "E24"
+    },
+    "RC1206FR": {
+      "package": "1206",
+      "footprint": "footprints:RC1206FR-RESC3116X65N",
+      "mpn_template": "RC1206FR-07{value_code}L",
+      "min_ohms": 0,
+      "max_ohms": 10000000,
+      "default_preset": "E24"
+    },
+    "RC1210FR": {
+      "package": "1210",
+      "min_ohms": 0,
+      "max_ohms": 10000000,
+      "default_preset": "E24"
+    }
+  }
+}
