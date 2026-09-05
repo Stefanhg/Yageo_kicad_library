@@ -34,7 +34,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -111,7 +111,7 @@
 				)
 			)
 		)
-		(property "ki_fp_filters" "*CAPC2012X140N*"
+		(property "ki_fp_filters" "*CAPC2012X70*"
 			(at 0 -19.05 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -233,7 +233,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -345,7 +345,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -524,7 +524,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -703,7 +703,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -882,7 +882,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -1061,7 +1061,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -1240,7 +1240,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -1419,7 +1419,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -1598,7 +1598,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -1777,7 +1777,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -1956,7 +1956,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -2135,7 +2135,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -2314,7 +2314,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -2493,7 +2493,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -2672,7 +2672,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -2851,7 +2851,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -3030,7 +3030,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -3209,7 +3209,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -3388,7 +3388,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -3567,7 +3567,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -3746,7 +3746,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -3925,7 +3925,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -4104,7 +4104,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -4283,7 +4283,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -4462,7 +4462,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -4641,7 +4641,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -4820,7 +4820,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -4999,7 +4999,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -5178,7 +5178,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -5357,7 +5357,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -5536,7 +5536,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -5715,7 +5715,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -5894,7 +5894,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -6073,7 +6073,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -6252,7 +6252,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -6431,7 +6431,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -6610,7 +6610,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -6789,7 +6789,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -6968,7 +6968,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -7147,7 +7147,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -7326,7 +7326,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -7505,7 +7505,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -7684,7 +7684,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -7863,7 +7863,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -8042,7 +8042,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -8221,7 +8221,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -8400,7 +8400,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -8579,7 +8579,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -8758,7 +8758,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -8937,7 +8937,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -9116,7 +9116,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -9295,7 +9295,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -9474,7 +9474,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -9653,7 +9653,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -9832,7 +9832,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -10011,7 +10011,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -10190,7 +10190,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -10369,7 +10369,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -10548,7 +10548,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -10727,7 +10727,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -10906,7 +10906,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -11085,7 +11085,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -11264,7 +11264,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -11443,7 +11443,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -11622,7 +11622,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -11801,7 +11801,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -11980,7 +11980,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -12159,7 +12159,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -12338,7 +12338,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -12517,7 +12517,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -12696,7 +12696,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -12875,7 +12875,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -13054,7 +13054,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -13233,7 +13233,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -13412,7 +13412,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -13591,7 +13591,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -13770,7 +13770,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -13949,7 +13949,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -14128,7 +14128,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -14307,7 +14307,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -14486,7 +14486,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -14665,7 +14665,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -14844,7 +14844,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -15023,7 +15023,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -15202,7 +15202,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -15381,7 +15381,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -15560,7 +15560,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -15739,7 +15739,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -15918,7 +15918,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -16097,7 +16097,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -16276,7 +16276,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -16455,7 +16455,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -16634,7 +16634,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:CC0805-CAPC2012X140N"
+		(property "Footprint" "footprints:CC0805-CAPC2012X70"
 			(at 0 -6.985 0)
 			(show_name yes)
 			(do_not_autoplace no)

@@ -32,8 +32,8 @@
     },
     "CC0805": {
       "package": "0805",
-      "footprint": "footprints:CC0805-CAPC2012X140N",
-      "ki_fp_filters": "*CAPC2012X140N*"
+      "footprint": "footprints:CC0805-CAPC2012X70",
+      "ki_fp_filters": "*CAPC2012X70*"
     },
     "CC1206": {
       "package": "1206",
