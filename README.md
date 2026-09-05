@@ -1,52 +1,12 @@
-# EagleCadLibraries
+# Yageo Resistor and Capacitor Libraries
 
 This repository contains resistor and capacitor libraries for Eagle and KiCad.
+It mainly focuses on providing up-to-date Yageo resistor and capacitor libraries for Kicad.
 
 The repository is now organized into two top-level areas:
 
 - [Libraries](Libraries)
 - [Scripts](Scripts)
-
-## Layout
-
-```text
-Libraries/
-	Kicad/
-		RC0402FR.kicad_sym
-		RC0603FR.kicad_sym
-		RC1206.kicad_sym
-		RC0402FR-RESC1005X40N.kicad_mod
-		RC0603FR-RESC1608X60N.kicad_mod
-		CC0402-CAPC1005X55N.kicad_mod
-		CC0603-CAPC1608X90N.kicad_mod
-	Eaglecad/
-		legacy Eagle libraries
-	3D/
-		Resistors/
-			RC0402.STEP
-			RC0603.STEP
-			RC0805.STEP
-			RC1206.STEP
-
-Scripts/
-	generate.bat
-	Resistors/
-		kicad/
-			kicad_resistor_generator.py
-			kicad_resistor_config.json
-			README.md
-		eaglecad/
-			RCXXXX_SCRIPT.py
-			README.md
-	Capacitors/
-		kicad/
-			README.md
-		eaglecad/
-			CCXXXX_SCRIPT.py
-			README.md
-```
-
-The root of the repository no longer carries duplicated library copies. The structured copies are now under [Libraries](Libraries).
 
 ## Capacitor Generation Note
 
