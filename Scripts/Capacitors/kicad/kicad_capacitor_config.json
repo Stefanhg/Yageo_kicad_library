@@ -1,7 +1,13 @@
 {
   "generator": {
     "default_series": "CC0603",
-    "default_preset": "verified_baseline"
+    "default_preset": "verified_baseline",
+    "default_libraries": {
+      "CC0402": "CC0402.kicad_sym",
+      "CC0603": "CC0603.kicad_sym",
+      "CC0805": "CC0805.kicad_sym",
+      "CC1206": "CC1206.kicad_sym"
+    }
   },
   "defaults": {
     "base_symbol": "CC_TEMPLATE",
