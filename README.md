@@ -12,7 +12,12 @@ The repository is now organized into two top-level areas:
 
 Capacitor library generation is not a simple formula or naming exercise. YAGEO MLCC part availability, voltage ratings, dielectric choices, and package-specific high-capacitance limits change over time, so generated capacitor MPNs must be validated against current manufacturer data to be trustworthy.
 
-To generate capacitors correctly, AI is required for proper results. The library selection process needs AI-assisted validation to avoid inventing unverifiable MPNs or choosing a part that is technically wrong for the package, voltage, or dielectric class.
+Capacitor generation automatically checks the extracted local LCSC database
+for matching MPNs and electrical specifications. Requested values come from
+the config preset; all parts are selected from the database without a curated
+pre-validation list. A missing database is downloaded and extracted automatically;
+7-Zip is required for the initial setup. See the [capacitor generator documentation](Scripts/Capacitors/kicad/README.md)
+for validation and selection details.
 
 ## How To Use The KiCad Generator
 

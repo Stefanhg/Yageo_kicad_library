@@ -17,7 +17,10 @@ and its `cache.z01`, `cache.z02`, etc. volumes, then extracts `cache.sqlite3` us
 7-Zip (on PATH or installed in `C:\Program Files\7-Zip`). The download and extracted
 database can occupy multiple GB; the staging archives are removed after extraction.
 The database stays at `Data/LCSC/jlcparts/cache.sqlite3`, which is ignored by Git.
-It is downloaded only when you run `download`, not on every lookup.
+It is downloaded when you run `download`, or automatically when capacitor
+generation finds it missing. Existing snapshots are reused, not downloaded
+on every lookup. A failed automatic installation leaves no partial database
+at the destination, so the next run can retry.
 
 No LCSC or JLCPCB API credentials are needed to consume this published copy.
 The credentials in the upstream workflow are used by its maintainers to refresh

@@ -10,6 +10,26 @@ import lcsc
 
 
 class MappingTests(unittest.TestCase):
+    def test_missing_database_installs_once(self):
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / 'custom.sqlite3'
+            def download(destination):
+                (destination / 'cache.sqlite3').write_bytes(b'test snapshot')
+            with patch.object(lcsc, 'download_database', side_effect=download) as downloader:
+                self.assertEqual(lcsc.ensure_database(path), path)
+                self.assertEqual(path.read_bytes(), b'test snapshot')
+                lcsc.ensure_database(path)
+                downloader.assert_called_once()
+
+    def test_failed_database_install_leaves_no_partial_destination(self):
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / 'cache.sqlite3'
+            with patch.object(lcsc, 'download_database', side_effect=OSError('download failed')):
+                with self.assertRaises(OSError):
+                    lcsc.ensure_database(path)
+            self.assertFalse(path.exists())
+            self.assertEqual(list(Path(directory).iterdir()), [])
+
     def setUp(self):
         self.mpn = 'RC0603FR-0710KL'
         self.candidate = {'mfr': self.mpn, 'lcsc': 98220, 'package': '0603', 'manufacturer': 'YAGEO'}

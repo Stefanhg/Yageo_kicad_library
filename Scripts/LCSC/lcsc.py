@@ -245,6 +245,19 @@ def select_match(mpn, candidates, source):
     return None, 'ambiguous' if exact else 'no_exact_match'
 
 
+def ensure_database(path):
+    """Install a missing snapshot, leaving existing databases untouched."""
+    path = Path(path).resolve()
+    if path.is_file():
+        return path
+    print(f'LCSC database missing; downloading and extracting to {path}. This can take several minutes.', flush=True)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with tempfile.TemporaryDirectory(dir=path.parent) as staging:
+        download_database(Path(staging))
+        (Path(staging) / 'cache.sqlite3').replace(path)
+    return path
+
+
 def download_database(destination):
     seven = shutil.which('7z') or str(Path('C:/Program Files/7-Zip/7z.exe'))
     if not Path(seven).is_file():

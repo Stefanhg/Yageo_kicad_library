@@ -5,12 +5,15 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import sqlite3
 import sys
+import tempfile
 from dataclasses import dataclass
+from decimal import Decimal
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "LCSC"))
-from lcsc import apply_kicad, load_cache
+from lcsc import apply_kicad, ensure_database
 
 
 BASE_SYMBOL_TEMPLATE = """\
@@ -135,11 +138,12 @@ class PartRow:
     value: str
     cap_code: str
     mpn: str
-    candidate_mpn: str
     dielectric: str
     tolerance: str
     voltage: str
     verification: str
+    lcsc: str = ""
+    datasheet: str = ""
 
 
 def load_json(path: Path) -> dict:
@@ -152,7 +156,7 @@ def read_lines(path: Path) -> list[str]:
 
 def normalize_value_token(value: str) -> str:
     text = value.strip().lower().replace(" ", "")
-    text = text.replace("μ", "u").replace("µ", "u")
+    text = text.replace("ÃƒÅ½Ã‚Â¼", "u").replace("Ãƒâ€šÃ‚Âµ", "u")
     text = text.replace("farad", "f").replace("farads", "f")
     if text.endswith("f") and len(text) > 1:
         text = text[:-1]
@@ -201,13 +205,108 @@ def dielectric_score(dielectric: str) -> int:
     return 1
 
 
-def verification_score(status: str) -> int:
-    scores = {
-        "repo_observed": 3,
-        "skill_example": 2,
-        "policy_candidate": 1,
-    }
-    return scores.get(status, 0)
+def capacitance_pf(value: str) -> Decimal:
+    token = normalize_value_token(value)
+    match = re.fullmatch(r"(\d+)([pnum])(\d*)", token)
+    return Decimal(match[1] + "." + (match[3] or "0")) * {
+        "p": 1, "n": 1000, "u": 1000000, "m": 1000000000,
+    }[match[2]]
+
+
+def capacitor_catalogue(path: Path) -> list[dict]:
+    """Cache CC records once per source snapshot; the large source has no MPN index."""
+    path = path.resolve()
+    stat = path.stat()
+    signature = {"version": 1, "source": str(path), "size": stat.st_size, "mtime_ns": stat.st_mtime_ns}
+    cache_path = path.with_name(path.name + ".capacitors.json")
+    try:
+        cached = json.loads(cache_path.read_text(encoding="utf-8"))
+        if cached["signature"] == signature and isinstance(cached["records"], list):
+            return cached["records"]
+    except (OSError, ValueError, KeyError, TypeError):
+        pass
+
+    print("Building capacitor lookup cache from local LCSC database...", flush=True)
+    connection = sqlite3.connect(path.as_uri() + "?mode=ro", uri=True)
+    connection.row_factory = sqlite3.Row
+    try:
+        records = [dict(row) for row in connection.execute(
+            "SELECT lcsc,mfr,package,manufacturer,attributes,datasheet FROM jlc_components "
+            "WHERE present=1 AND mfr LIKE 'CC%'"
+        )]
+    finally:
+        connection.close()
+    # Do not cache a scan if the source was replaced or updated during it.
+    after = path.stat()
+    if (after.st_size, after.st_mtime_ns) != (stat.st_size, stat.st_mtime_ns):
+        raise ValueError("LCSC database changed during lookup; rerun generation")
+    temporary = None
+    try:
+        with tempfile.NamedTemporaryFile(mode="w", encoding="utf-8", dir=path.parent, delete=False) as output:
+            temporary = Path(output.name)
+            json.dump({"signature": signature, "records": records}, output)
+        temporary.replace(cache_path)
+    except OSError as error:
+        print(f"Could not save capacitor lookup cache: {error}", flush=True)
+    finally:
+        if temporary is not None:
+            temporary.unlink(missing_ok=True)
+    return records
+
+
+def database_parts(path: Path, series: SeriesConfig, requested: set[str]) -> list[PartRow]:
+    """Validate catalogue MPNs against their electrical attributes, offline."""
+    wanted = {capacitance_pf(value): value for value in requested}
+    valid: dict[str, list[PartRow]] = {}
+    voltages = {"5": "6.3V", "6": "10V", "7": "16V", "8": "25V", "9": "50V", "0": "100V"}
+    tolerances = {"J": "5%", "K": "10%", "M": "20%"}
+    for record in capacitor_catalogue(path):
+        mpn = record["mfr"].strip().upper()
+        match = re.fullmatch(re.escape(series.name) + r"([JKM])[RK](NPO|X7R|X5R)([567890])B([NB])(\d{3}|\dR\d)", mpn)
+        if not match or record["package"] != series.package or record["manufacturer"].strip().upper() != "YAGEO":
+            continue
+        tolerance, dielectric, voltage, process, code = match.groups()
+        if process != ("N" if dielectric == "NPO" else "B"):
+            continue
+        pf = Decimal(code.replace("R", ".")) if "R" in code else Decimal(code[:2]) * 10 ** int(code[2])
+        if pf not in wanted:
+            continue
+        try:
+            attrs = json.loads(record["attributes"])
+            if not isinstance(attrs, dict):
+                continue
+            if capacitance_pf(attrs["Capacitance"]) != pf:
+                continue
+            if attrs["Temperature Coefficient"].upper() not in ({"NPO", "NP0", "C0G"} if dielectric == "NPO" else {dielectric}):
+                continue
+            if parse_tolerance_percent(attrs["Tolerance"]) != int(tolerances[tolerance][:-1]):
+                continue
+            if parse_voltage_volts(attrs["Voltage Rating"]) != parse_voltage_volts(voltages[voltage]):
+                continue
+        except (KeyError, TypeError, ValueError):
+            continue
+        valid.setdefault(mpn, []).append(PartRow(
+            wanted[pf], code, mpn, "C0G" if dielectric == "NPO" else dielectric,
+            tolerances[tolerance], voltages[voltage], "lcsc_database",
+            "C" + str(record["lcsc"]), record["datasheet"],
+        ))
+    # Multiple fully specified catalogue codes for one MPN require review.
+    return [rows[0] for rows in valid.values() if len(rows) == 1]
+
+
+def select_database_parts(rows: list[PartRow]) -> dict[str, PartRow]:
+    selected = {}
+    for row in sorted(rows, key=lambda r: r.mpn):
+        key = normalize_value_token(row.value)
+        def rank(part):
+            return (
+                part.dielectric == "X7R" if capacitance_pf(part.value) < 1000000 else True,
+                -abs(parse_tolerance_percent(part.tolerance) - 10),
+                parse_voltage_volts(part.voltage), dielectric_score(part.dielectric),
+            )
+        if key not in selected or rank(row) > rank(selected[key]):
+            selected[key] = row
+    return selected
 
 
 def property_block(name: str, value: str, y: float, show_name: str = "yes", hidden: bool = True, do_not_autoplace: str = "no") -> str:
@@ -242,44 +341,28 @@ def load_series_config(config: dict, series_name: str) -> SeriesConfig:
     )
 
 
-def load_parts(config: dict, series_name: str) -> list[PartRow]:
-    rows: list[PartRow] = []
-    for item in config["parts"][series_name]:
-        rows.append(
-            PartRow(
-                value=item["value"],
-                cap_code=item["cap_code"],
-                mpn=item.get("mpn", ""),
-                candidate_mpn=item.get("candidate_mpn", ""),
-                dielectric=item["dielectric"],
-                tolerance=item["tolerance"],
-                voltage=item["voltage"],
-                verification=item["verification"],
-            )
-        )
-    return rows
-
-
-def choose_best_per_value(rows: list[PartRow]) -> dict[str, PartRow]:
-    grouped: dict[str, list[PartRow]] = {}
-    for row in rows:
-        key = normalize_value_token(row.value)
-        grouped.setdefault(key, []).append(row)
-
-    selected: dict[str, PartRow] = {}
-    for key, group in grouped.items():
-        ranked = sorted(
-            group,
-            key=lambda r: (
-                verification_score(r.verification),
-                -abs(parse_tolerance_percent(r.tolerance) - 10),
-                parse_voltage_volts(r.voltage),
-                dielectric_score(r.dielectric),
-            ),
-            reverse=True,
-        )
-        selected[key] = ranked[0]
-    return selected
+def range_values(preset: dict) -> set[str]:
+    bases = {
+        "E12": (10, 12, 15, 18, 22, 27, 33, 39, 47, 56, 68, 82),
+        "E24": (10, 11, 12, 13, 15, 16, 18, 20, 22, 24, 27, 30,
+                33, 36, 39, 43, 47, 51, 56, 62, 68, 75, 82, 91),
+    }
+    minimum, maximum = capacitance_pf(preset["min_value"]), capacitance_pf(preset["max_value"])
+    if minimum <= 0 or maximum < minimum:
+        raise ValueError("Capacitance range must have 0 < min_value <= max_value")
+    if preset["series"] not in bases:
+        raise ValueError("Capacitance range series must be E12 or E24")
+    values = set()
+    for exponent in range(minimum.adjusted(), maximum.adjusted() + 1):
+        for base in bases[preset["series"]]:
+            pf = Decimal(base) * Decimal(10) ** (exponent - 1)
+            if minimum <= pf <= maximum:
+                unit, scale = ("u", 1000000) if pf >= 1000000 else ("n", 1000) if pf >= 1000 else ("p", 1)
+                number = format(pf / scale, "f")
+                if "." in number:
+                    number = number.rstrip("0").rstrip(".")
+                values.add(normalize_value_token(number + unit))
+    return values
 
 
 def resolve_requested_values(args_values: list[str], values_file: Path | None, config: dict, preset: str) -> set[str]:
@@ -291,20 +374,19 @@ def resolve_requested_values(args_values: list[str], values_file: Path | None, c
         if values_file is not None:
             raw_tokens.extend(read_lines(values_file))
     else:
-        raw_tokens.extend(config["presets"][preset])
+        definition = config["presets"][preset]
+        if isinstance(definition, dict):
+            return range_values(definition)
+        raw_tokens.extend(definition)
 
     return {normalize_value_token(token) for token in raw_tokens}
 
 
-def render_symbol(series: SeriesConfig, row: PartRow, include_unverified: bool) -> tuple[str, list[str]]:
-    resolved_mpn = row.mpn.strip() or row.candidate_mpn.strip()
-    if not resolved_mpn:
-        raise ValueError(f"row for value {row.value} has neither mpn nor candidate_mpn")
-
-    if row.verification == "policy_candidate" and not include_unverified and not row.mpn.strip():
-        raise ValueError("attempted to render unverified row while include_unverified is disabled")
-
-    status = "VERIFIED" if row.mpn.strip() else "UNVERIFIED"
+def render_symbol(series: SeriesConfig, row: PartRow) -> tuple[str, list[str]]:
+    resolved_mpn = row.mpn.strip()
+    if not resolved_mpn or row.verification != "lcsc_database" or not row.lcsc:
+        raise ValueError("Only database-validated parts can be rendered")
+    status = "VERIFIED"
     description = series.description_template.format(
         value=row.value,
         dielectric=row.dielectric,
@@ -317,7 +399,7 @@ def render_symbol(series: SeriesConfig, row: PartRow, include_unverified: bool) 
             property_block("Reference", "C", 1.905, show_name="no", hidden=False, do_not_autoplace="yes"),
             property_block("Value", row.value, -1.905, show_name="no", hidden=False, do_not_autoplace="yes"),
             property_block("Footprint", series.footprint, -6.985),
-            property_block("Datasheet", series.datasheet, -9.525),
+            property_block("Datasheet", row.datasheet or series.datasheet, -9.525),
             property_block("Description", description, 0),
             property_block("Manufacturer", series.manufacturer, -13.335),
             property_block("MFN", series.manufacturer, -14.2875),
@@ -347,7 +429,6 @@ def render_symbol(series: SeriesConfig, row: PartRow, include_unverified: bool) 
         row.value,
         row.cap_code,
         resolved_mpn,
-        row.candidate_mpn,
         row.dielectric,
         row.tolerance,
         row.voltage,
@@ -451,13 +532,17 @@ def main() -> int:
     parser.add_argument("--preset", default=None, help="Value preset from config presets.")
     parser.add_argument("--values", action="append", default=[], help="Custom value list. Comma, semicolon, or whitespace separated.")
     parser.add_argument("--values-file", default=None, help="Text file with one value per line.")
-    parser.add_argument("--include-unverified", action="store_true", help="Include policy candidates when verified MPN is not present.")
     parser.add_argument("--output", default=None, help="Output .kicad_sym path.")
     parser.add_argument("--csv-output", default=None, help="Companion CSV manifest output path.")
     parser.add_argument("--no-csv-output", action="store_true", help="Do not write the companion CSV manifest.")
+    parser.add_argument("--database", type=Path, default=None, help="Local jlcparts SQLite database for automatic MPN/spec validation.")
     args = parser.parse_args()
 
     config = load_json(Path(args.config))
+    database = args.database or Path(__file__).resolve().parents[3] / config["generator"].get(
+        "database", "Data/LCSC/jlcparts/cache.sqlite3"
+    )
+    ensure_database(database)
     preset = args.preset or config["generator"]["default_preset"]
     if preset not in config["presets"]:
         raise ValueError(f"unknown preset: {preset}")
@@ -475,7 +560,6 @@ def main() -> int:
         "value",
         "cap_code",
         "selected_mpn",
-        "candidate_mpn",
         "dielectric",
         "tolerance",
         "voltage",
@@ -487,8 +571,8 @@ def main() -> int:
         requested_values = resolve_requested_values(args.values, values_file, config, preset)
 
         series = load_series_config(config, series_name)
-        rows = load_parts(config, series_name)
-        selected_by_value = choose_best_per_value(rows)
+        selected_by_value = select_database_parts(database_parts(database, series, requested_values))
+        print(f"{series_name}: {len(selected_by_value)}/{len(requested_values)} values validated against {database}")
 
         symbol_blocks: list[str] = []
         csv_rows: list[list[str]] = []
@@ -498,10 +582,7 @@ def main() -> int:
             if row is None:
                 continue
 
-            if row.verification == "policy_candidate" and not args.include_unverified and not row.mpn.strip():
-                continue
-
-            symbol_block, csv_row = render_symbol(series, row, args.include_unverified)
+            symbol_block, csv_row = render_symbol(series, row)
             symbol_blocks.append(symbol_block)
             csv_rows.append(csv_row)
 
@@ -512,7 +593,10 @@ def main() -> int:
             output_path = script_dir / f"{series.name}.generated.kicad_sym"
             csv_output_path = output_path.with_suffix(".manifest.csv")
 
-        output_path.write_text(apply_kicad(build_library(series, symbol_blocks), load_cache()), encoding="utf-8", newline="\n")
+        cache = {}
+        for row in selected_by_value.values():
+            cache[row.mpn] = {"mpn": row.mpn, "lcsc": row.lcsc}
+        output_path.write_text(apply_kicad(build_library(series, symbol_blocks), cache), encoding="utf-8", newline="\n")
 
         if not args.no_csv_output:
             lines = [",".join(csv_header)] + [",".join(row) for row in csv_rows]
@@ -529,14 +613,7 @@ def main() -> int:
 
         missing = sorted(value for value in requested_values if value not in selected_by_value)
         if missing:
-            print("Missing values:", ", ".join(missing))
-
-        if not args.include_unverified:
-            skipped = [
-                row.value for row in selected_by_value.values() if row.verification == "policy_candidate" and not row.mpn.strip()
-            ]
-            if skipped:
-                print("Skipped unverified values unless --include-unverified is set:", ", ".join(sorted(set(skipped))))
+            print("No unambiguous database match with matching specs:", ", ".join(missing))
 
     return 0
 
