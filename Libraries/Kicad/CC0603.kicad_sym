@@ -367,7 +367,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 100n X7R 10% 100V"
+		(property "Description" "Capacitor 100nF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -546,7 +546,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 100p X7R 10% 100V"
+		(property "Description" "Capacitor 100pF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -725,7 +725,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 10n X7R 10% 100V"
+		(property "Description" "Capacitor 10nF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -904,7 +904,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 10p C0G 10% 50V"
+		(property "Description" "Capacitor 10pF C0G 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -1083,7 +1083,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 10u X5R 10% 25V"
+		(property "Description" "Capacitor 10uF X5R 10% 25V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -1262,7 +1262,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 110p C0G 5% 50V"
+		(property "Description" "Capacitor 110pF C0G 5% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -1441,7 +1441,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 11p C0G 5% 50V"
+		(property "Description" "Capacitor 11pF C0G 5% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -1620,7 +1620,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 120n X7R 10% 50V"
+		(property "Description" "Capacitor 120nF X7R 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -1799,7 +1799,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 120p X7R 10% 50V"
+		(property "Description" "Capacitor 120pF X7R 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -1978,7 +1978,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 12n X7R 10% 100V"
+		(property "Description" "Capacitor 12nF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -2157,7 +2157,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 12p C0G 10% 50V"
+		(property "Description" "Capacitor 12pF C0G 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -2336,7 +2336,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 130p C0G 5% 50V"
+		(property "Description" "Capacitor 130pF C0G 5% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -2515,7 +2515,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 13p C0G 5% 50V"
+		(property "Description" "Capacitor 13pF C0G 5% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -2694,7 +2694,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 150n X7R 10% 50V"
+		(property "Description" "Capacitor 150nF X7R 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -2873,7 +2873,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 150p X7R 10% 50V"
+		(property "Description" "Capacitor 150pF X7R 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -3052,7 +3052,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 15n X7R 10% 100V"
+		(property "Description" "Capacitor 15nF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -3231,7 +3231,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 15p C0G 10% 50V"
+		(property "Description" "Capacitor 15pF C0G 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -3410,7 +3410,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 160p C0G 5% 50V"
+		(property "Description" "Capacitor 160pF C0G 5% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -3589,7 +3589,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 16p C0G 10% 50V"
+		(property "Description" "Capacitor 16pF C0G 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -3768,7 +3768,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 180n X7R 10% 25V"
+		(property "Description" "Capacitor 180nF X7R 10% 25V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -3947,7 +3947,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 180p X7R 10% 50V"
+		(property "Description" "Capacitor 180pF X7R 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -4126,7 +4126,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 18n X7R 10% 100V"
+		(property "Description" "Capacitor 18nF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -4305,7 +4305,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 18p C0G 10% 50V"
+		(property "Description" "Capacitor 18pF C0G 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -4484,7 +4484,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 1n X7R 10% 100V"
+		(property "Description" "Capacitor 1nF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -4631,7 +4631,7 @@
 				)
 			)
 		)
-		(property "Value" "1n2"
+		(property "Value" "1.2n"
 			(at 0 -1.905 0)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -4663,7 +4663,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 1n2 X7R 10% 100V"
+		(property "Description" "Capacitor 1.2nF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -4810,7 +4810,7 @@
 				)
 			)
 		)
-		(property "Value" "1n5"
+		(property "Value" "1.5n"
 			(at 0 -1.905 0)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -4842,7 +4842,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 1n5 X7R 10% 100V"
+		(property "Description" "Capacitor 1.5nF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -4989,7 +4989,7 @@
 				)
 			)
 		)
-		(property "Value" "1n8"
+		(property "Value" "1.8n"
 			(at 0 -1.905 0)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -5021,7 +5021,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 1n8 X7R 10% 100V"
+		(property "Description" "Capacitor 1.8nF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -5200,7 +5200,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 1u X7R 10% 50V"
+		(property "Description" "Capacitor 1uF X7R 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -5379,7 +5379,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 200p X7R 10% 50V"
+		(property "Description" "Capacitor 200pF X7R 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -5558,7 +5558,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 20n X7R 10% 50V"
+		(property "Description" "Capacitor 20nF X7R 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -5737,7 +5737,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 20p C0G 5% 100V"
+		(property "Description" "Capacitor 20pF C0G 5% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -5916,7 +5916,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 220n X7R 10% 50V"
+		(property "Description" "Capacitor 220nF X7R 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -6095,7 +6095,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 220p X7R 10% 100V"
+		(property "Description" "Capacitor 220pF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -6274,7 +6274,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 22n X7R 10% 100V"
+		(property "Description" "Capacitor 22nF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -6453,7 +6453,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 22p C0G 10% 50V"
+		(property "Description" "Capacitor 22pF C0G 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -6632,7 +6632,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 22u X5R 20% 10V"
+		(property "Description" "Capacitor 22uF X5R 20% 10V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -6811,7 +6811,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 240p C0G 5% 50V"
+		(property "Description" "Capacitor 240pF C0G 5% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -6990,7 +6990,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 24p C0G 5% 50V"
+		(property "Description" "Capacitor 24pF C0G 5% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -7169,7 +7169,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 270n X7R 10% 16V"
+		(property "Description" "Capacitor 270nF X7R 10% 16V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -7348,7 +7348,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 270p X7R 10% 100V"
+		(property "Description" "Capacitor 270pF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -7527,7 +7527,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 27n X7R 10% 50V"
+		(property "Description" "Capacitor 27nF X7R 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -7706,7 +7706,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 27p C0G 10% 50V"
+		(property "Description" "Capacitor 27pF C0G 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -7885,7 +7885,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 2n X7R 10% 100V"
+		(property "Description" "Capacitor 2nF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -8032,7 +8032,7 @@
 				)
 			)
 		)
-		(property "Value" "2n2"
+		(property "Value" "2.2n"
 			(at 0 -1.905 0)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -8064,7 +8064,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 2n2 X7R 10% 100V"
+		(property "Description" "Capacitor 2.2nF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -8211,7 +8211,7 @@
 				)
 			)
 		)
-		(property "Value" "2n7"
+		(property "Value" "2.7n"
 			(at 0 -1.905 0)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -8243,7 +8243,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 2n7 X7R 10% 100V"
+		(property "Description" "Capacitor 2.7nF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -8390,7 +8390,7 @@
 				)
 			)
 		)
-		(property "Value" "2u2"
+		(property "Value" "2.2u"
 			(at 0 -1.905 0)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -8422,7 +8422,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 2u2 X5R 10% 50V"
+		(property "Description" "Capacitor 2.2uF X5R 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -8601,7 +8601,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 300p X7R 10% 50V"
+		(property "Description" "Capacitor 300pF X7R 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -8780,7 +8780,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 30p C0G 5% 100V"
+		(property "Description" "Capacitor 30pF C0G 5% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -8959,7 +8959,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 330n X7R 10% 25V"
+		(property "Description" "Capacitor 330nF X7R 10% 25V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -9138,7 +9138,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 330p X7R 10% 100V"
+		(property "Description" "Capacitor 330pF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -9317,7 +9317,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 33n X7R 10% 100V"
+		(property "Description" "Capacitor 33nF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -9496,7 +9496,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 33p C0G 5% 100V"
+		(property "Description" "Capacitor 33pF C0G 5% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -9675,7 +9675,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 360p X7R 10% 50V"
+		(property "Description" "Capacitor 360pF X7R 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -9854,7 +9854,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 36p C0G 5% 100V"
+		(property "Description" "Capacitor 36pF C0G 5% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -10033,7 +10033,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 390n X7R 10% 16V"
+		(property "Description" "Capacitor 390nF X7R 10% 16V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -10212,7 +10212,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 390p X7R 10% 50V"
+		(property "Description" "Capacitor 390pF X7R 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -10391,7 +10391,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 39n X7R 10% 50V"
+		(property "Description" "Capacitor 39nF X7R 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -10570,7 +10570,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 39p C0G 10% 50V"
+		(property "Description" "Capacitor 39pF C0G 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -10717,7 +10717,7 @@
 				)
 			)
 		)
-		(property "Value" "3n3"
+		(property "Value" "3.3n"
 			(at 0 -1.905 0)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -10749,7 +10749,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 3n3 X7R 10% 100V"
+		(property "Description" "Capacitor 3.3nF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -10896,7 +10896,7 @@
 				)
 			)
 		)
-		(property "Value" "3n9"
+		(property "Value" "3.9n"
 			(at 0 -1.905 0)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -10928,7 +10928,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 3n9 X7R 10% 100V"
+		(property "Description" "Capacitor 3.9nF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -11107,7 +11107,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 430p X7R 10% 50V"
+		(property "Description" "Capacitor 430pF X7R 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -11286,7 +11286,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 43p C0G 5% 100V"
+		(property "Description" "Capacitor 43pF C0G 5% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -11465,7 +11465,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 470n X7R 10% 50V"
+		(property "Description" "Capacitor 470nF X7R 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -11644,7 +11644,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 470p X7R 10% 100V"
+		(property "Description" "Capacitor 470pF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -11823,7 +11823,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 47n X7R 10% 100V"
+		(property "Description" "Capacitor 47nF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -12002,7 +12002,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 47p C0G 10% 50V"
+		(property "Description" "Capacitor 47pF C0G 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -12149,7 +12149,7 @@
 				)
 			)
 		)
-		(property "Value" "4n7"
+		(property "Value" "4.7n"
 			(at 0 -1.905 0)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -12181,7 +12181,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 4n7 X7R 10% 100V"
+		(property "Description" "Capacitor 4.7nF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -12328,7 +12328,7 @@
 				)
 			)
 		)
-		(property "Value" "4u7"
+		(property "Value" "4.7u"
 			(at 0 -1.905 0)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -12360,7 +12360,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 4u7 X5R 10% 25V"
+		(property "Description" "Capacitor 4.7uF X5R 10% 25V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -12539,7 +12539,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 510p C0G 5% 50V"
+		(property "Description" "Capacitor 510pF C0G 5% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -12718,7 +12718,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 51p C0G 5% 100V"
+		(property "Description" "Capacitor 51pF C0G 5% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -12897,7 +12897,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 560p X7R 10% 100V"
+		(property "Description" "Capacitor 560pF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -13076,7 +13076,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 56n X7R 10% 50V"
+		(property "Description" "Capacitor 56nF X7R 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -13255,7 +13255,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 56p C0G 10% 50V"
+		(property "Description" "Capacitor 56pF C0G 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -13402,7 +13402,7 @@
 				)
 			)
 		)
-		(property "Value" "5n6"
+		(property "Value" "5.6n"
 			(at 0 -1.905 0)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -13434,7 +13434,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 5n6 X7R 10% 100V"
+		(property "Description" "Capacitor 5.6nF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -13613,7 +13613,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 620p C0G 5% 50V"
+		(property "Description" "Capacitor 620pF C0G 5% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -13792,7 +13792,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 62p C0G 5% 50V"
+		(property "Description" "Capacitor 62pF C0G 5% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -13971,7 +13971,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 680n X7R 10% 25V"
+		(property "Description" "Capacitor 680nF X7R 10% 25V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -14150,7 +14150,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 680p X7R 10% 100V"
+		(property "Description" "Capacitor 680pF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -14329,7 +14329,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 68n X7R 10% 100V"
+		(property "Description" "Capacitor 68nF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -14508,7 +14508,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 68p C0G 10% 50V"
+		(property "Description" "Capacitor 68pF C0G 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -14655,7 +14655,7 @@
 				)
 			)
 		)
-		(property "Value" "6n8"
+		(property "Value" "6.8n"
 			(at 0 -1.905 0)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -14687,7 +14687,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 6n8 X7R 10% 100V"
+		(property "Description" "Capacitor 6.8nF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -14866,7 +14866,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 750p X7R 10% 50V"
+		(property "Description" "Capacitor 750pF X7R 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -15045,7 +15045,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 75p C0G 5% 50V"
+		(property "Description" "Capacitor 75pF C0G 5% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -15224,7 +15224,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 820p X7R 10% 100V"
+		(property "Description" "Capacitor 820pF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -15403,7 +15403,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 82n X7R 10% 100V"
+		(property "Description" "Capacitor 82nF X7R 10% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -15582,7 +15582,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 82p C0G 5% 100V"
+		(property "Description" "Capacitor 82pF C0G 5% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -15729,7 +15729,7 @@
 				)
 			)
 		)
-		(property "Value" "8n2"
+		(property "Value" "8.2n"
 			(at 0 -1.905 0)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -15761,7 +15761,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 8n2 X7R 10% 50V"
+		(property "Description" "Capacitor 8.2nF X7R 10% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -15908,7 +15908,7 @@
 				)
 			)
 		)
-		(property "Value" "8p2"
+		(property "Value" "8.2p"
 			(at 0 -1.905 0)
 			(show_name no)
 			(do_not_autoplace yes)
@@ -15940,7 +15940,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 8p2 C0G 5% 50V"
+		(property "Description" "Capacitor 8.2pF C0G 5% 50V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)
@@ -16119,7 +16119,7 @@
 				)
 			)
 		)
-		(property "Description" "MLCC 91p C0G 5% 100V"
+		(property "Description" "Capacitor 91pF C0G 5% 100V"
 			(at 0 0 0)
 			(show_name yes)
 			(do_not_autoplace no)

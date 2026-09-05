@@ -13,7 +13,7 @@
     "base_symbol": "CC_TEMPLATE",
     "manufacturer": "Yageo",
     "datasheet": "https://yageogroup.com/content/datasheet/asset/file/UPY-AC_NP0X7RX7S_6_3V-TO-2KV",
-    "description_template": "MLCC {value} {dielectric} {tolerance} {voltage}",
+    "description_template": "Capacitor {value}F {dielectric} {tolerance} {voltage}",
     "footprint": "",
     "ki_fp_filters": ""
   },

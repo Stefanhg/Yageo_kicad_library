@@ -382,13 +382,20 @@ def resolve_requested_values(args_values: list[str], values_file: Path | None, c
     return {normalize_value_token(token) for token in raw_tokens}
 
 
+def format_value_display(value: str) -> str:
+    token = normalize_value_token(value)
+    match = re.fullmatch(r"(\d+)([pnum])(\d*)", token)
+    return match[1] + ("." + match[3] if match[3] else "") + match[2]
+
+
 def render_symbol(series: SeriesConfig, row: PartRow) -> tuple[str, list[str]]:
     resolved_mpn = row.mpn.strip()
     if not resolved_mpn or row.verification != "lcsc_database" or not row.lcsc:
         raise ValueError("Only database-validated parts can be rendered")
     status = "VERIFIED"
+    display_value = format_value_display(row.value)
     description = series.description_template.format(
-        value=row.value,
+        value=display_value,
         dielectric=row.dielectric,
         tolerance=row.tolerance,
         voltage=row.voltage,
@@ -397,7 +404,7 @@ def render_symbol(series: SeriesConfig, row: PartRow) -> tuple[str, list[str]]:
     properties = "\n".join(
         [
             property_block("Reference", "C", 1.905, show_name="no", hidden=False, do_not_autoplace="yes"),
-            property_block("Value", row.value, -1.905, show_name="no", hidden=False, do_not_autoplace="yes"),
+            property_block("Value", display_value, -1.905, show_name="no", hidden=False, do_not_autoplace="yes"),
             property_block("Footprint", series.footprint, -6.985),
             property_block("Datasheet", row.datasheet or series.datasheet, -9.525),
             property_block("Description", description, 0),
@@ -426,7 +433,7 @@ def render_symbol(series: SeriesConfig, row: PartRow) -> tuple[str, list[str]]:
     csv_row = [
         series.name,
         series.package,
-        row.value,
+        display_value,
         row.cap_code,
         resolved_mpn,
         row.dielectric,
